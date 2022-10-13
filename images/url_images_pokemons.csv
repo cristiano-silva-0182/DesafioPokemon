@@ -1,0 +1,1073 @@
+id_pokemon,num_pokemon,name_pokemon,url_image
+1,1,Bulbasaur.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png
+2,2,Ivysaur.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png
+3,3,Venusaur.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png
+4,3,Mega Venusaur.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/003_f2.png
+5,3,Gigantamax Venusaur.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/003_f3.png
+6,4,Charmander.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png
+7,5,Charmeleon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png
+8,6,Charizard.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png
+9,6,Mega Charizard X.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/006_f2.png
+10,6,Mega Charizard Y.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/006_f3.png
+11,6,Gigantamax Charizard.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/006_f4.png
+12,7,Squirtle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png
+13,8,Wartortle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png
+14,9,Blastoise.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png
+15,9,Mega Blastoise.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/009_f2.png
+16,9,Gigantamax Blasoise.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/009_f3.png
+17,10,Caterpie.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png
+18,11,Metapod.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png
+19,12,Butterfree.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png
+20,12,Gigantamax Butterfree.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/012_f2.png
+21,13,Weedle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png
+22,14,Kakuna.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png
+23,15,Beedrill.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png
+24,15,Mega Beedrill.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/015_f2.png
+25,16,Pidgey.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png
+26,17,Pidgeotto.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png
+27,18,Pidgeot.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png
+28,18,Mega Pidgeot.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/018_f2.png
+29,19,Rattata.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png
+30,19,Alolan Rattata.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/019_f2.png
+31,20,Raticate.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png
+32,20,Alolan Raticate.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/020_f2.png
+33,21,Spearow.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png
+34,22,Fearow.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png
+35,23,Ekans.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png
+36,24,Arbok.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png
+37,25,Pikachu.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png
+38,25,Gigantamax Pikachu.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/025_f2.png
+39,26,Raichu.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png
+40,26,Alolan Raichu.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/026_f2.png
+41,27,Sandshrew.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png
+42,27,Alolan Sandshrew.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/027_f2.png
+43,28,Sandslash.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png
+44,28,Alolan Sandslash.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/028_f2.png
+45,29,Nidoranâ™€.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png
+46,30,Nidorina.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png
+47,31,Nidoqueen.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png
+48,32,Nidoranâ™‚.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png
+49,33,Nidorino.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png
+50,34,Nidoking.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png
+51,35,Clefairy.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png
+52,36,Clefable.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png
+53,37,Vulpix.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png
+54,37,Alolan Vulpix.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/037_f2.png
+55,38,Ninetales.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png
+56,38,Alolan Ninetales.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/038_f2.png
+57,39,Jigglypuff.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png
+58,40,Wigglytuff.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png
+59,41,Zubat.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png
+60,42,Golbat.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png
+61,43,Oddish.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png
+62,44,Gloom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png
+63,45,Vileplume.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png
+64,46,Paras.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png
+65,47,Parasect.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png
+66,48,Venonat.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png
+67,49,Venomoth.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png
+68,50,Diglett.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png
+69,50,Alolan Diglett.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/050_f2.png
+70,51,Dugtrio.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png
+71,51,Alolan Dugtrio.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/051_f2.png
+72,52,Meowth.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png
+73,53,Gigantamax Meowth.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png
+74,52,Alolan Meowth.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/052_f2.png
+75,52,Galarian Meowth.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/052_f3.png
+76,53,Persian.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/053_f2.png
+77,53,Alolan Persian.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/053_f3.png
+78,54,Psyduck.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png
+79,55,Golduck.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png
+80,56,Mankey.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png
+81,57,Primeape.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png
+82,58,Growlithe.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png
+83,59,Arcanine.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png
+84,60,Poliwag.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png
+85,61,Poliwhirl.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png
+86,62,Poliwrath.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png
+87,63,Abra.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png
+88,64,Kadabra.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png
+89,65,Alakazam.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png
+90,65,Mega Alakazam.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/065_f2.png
+91,66,Machop.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png
+92,67,Machoke.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png
+93,68,Machamp.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png
+94,68,Gigantamax Machamp.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/068_f2.png
+95,69,Bellsprout.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png
+96,70,Weepinbell.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png
+97,71,Victreebel.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png
+98,72,Tentacool.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png
+99,73,Tentacruel.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png
+100,74,Geodude.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png
+101,74,Alolan Geodude.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/074_f2.png
+102,75,Graveler.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png
+103,75,Alolan Graveler.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/075_f2.png
+104,76,Golem.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png
+105,76,Alolan Golem.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/076_f2.png
+106,77,Ponyta.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png
+107,77,Galarian Ponyta.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/077_f2.png
+108,78,Rapidash.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png
+109,78,Galarian Rapidash.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/078_f2.png
+110,79,Slowpoke.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png
+111,79,Galarian Slowpoke.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/079_f2.png
+112,80,Slowbro.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png
+113,80,Galarian Slowbro.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/080_f2.png
+114,80,Mega Slowbro.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/080_f3.png
+115,81,Magnemite.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png
+116,82,Magneton.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png
+117,83,Farfetch'd.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png
+118,83,Galarian Farfetched.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/083_f2.png
+119,84,Doduo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png
+120,85,Dodrio.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png
+121,86,Seel.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png
+122,87,Dewgong.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png
+123,88,Grimer.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png
+124,88,Alolan Grimer.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/088_f2.png
+125,89,Muk.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png
+126,89,Alolan Muk.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/089_f2.png
+127,90,Shellder.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png
+128,91,Cloyster.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png
+129,92,Gastly.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png
+130,93,Haunter.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png
+131,94,Gengar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png
+132,94,Mega Gengar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/094_f2.png
+133,94,Gigantamax Gengar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/094_f3.png
+134,95,Onix.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png
+135,96,Drowzee.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png
+136,97,Hypno.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png
+137,98,Krabby.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png
+138,99,Kingler.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png
+139,99,Gigantamax Kingler.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/099_f2.png
+140,100,Voltorb.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png
+141,101,Electrode.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png
+142,102,Exeggcute.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png
+143,103,Exeggutor.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png
+144,103,Alolan Exeggutor.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/103_f2.png
+145,104,Cubone.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png
+146,105,Marowak.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png
+147,105,Alolan Marowak.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/105_f2.png
+148,106,Hitmonlee.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png
+149,107,Hitmonchan.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png
+150,108,Lickitung.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png
+151,109,Koffing.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png
+152,110,Weezing.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png
+153,110,Galarian Weezing.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/110_f2.png
+154,111,Rhyhorn.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png
+155,112,Rhydon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png
+156,113,Chansey.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png
+157,114,Tangela.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png
+158,115,Kangaskhan.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png
+159,115,Mega Kangaskhan.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/115_f2.png
+160,116,Horsea.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png
+161,117,Seadra.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png
+162,118,Goldeen.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png
+163,119,Seaking.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png
+164,120,Staryu.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png
+165,121,Starmie.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png
+166,122,Mr. Mime.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png
+167,122,Galarian Mr. Mime.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/122_f2.png
+168,123,Scyther.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png
+169,124,Jynx.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png
+170,125,Electabuzz.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png
+171,126,Magmar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png
+172,127,Pinsir.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png
+173,127,Mega Pinsir.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/127_f2.png
+174,128,Tauros.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png
+175,129,Magikarp.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png
+176,130,Gyarados.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png
+177,130,Mega Gyarados.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/130_f2.png
+178,131,Lapras.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png
+179,131,Gigantamax Lapras.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/131_f2.png
+180,132,Ditto.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png
+181,133,Eevee.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png
+182,133,Gigantamax Eevee.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/133_f2.png
+183,134,Vaporeon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png
+184,135,Jolteon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png
+185,136,Flareon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png
+186,137,Porygon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png
+187,138,Omanyte.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png
+188,139,Omastar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png
+189,140,Kabuto.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png
+190,141,Kabutops.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png
+191,142,Aerodactyl.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png
+192,142,Mega Aerodactyl.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/142_f2.png
+193,143,Snorlax.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png
+194,143,Gigantamax Snorlax.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/143_f2.png
+195,144,Articuno.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png
+196,144,Galarian Articuno.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/144_f2.png
+197,145,Zapdos.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png
+198,145,Galarian Zapdos.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/145_f2.png
+199,146,Moltres.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png
+200,146,Galarian Moltres.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/146_f2.png
+201,147,Dratini.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png
+202,148,Dragonair.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png
+203,149,Dragonite.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png
+204,150,Mewtwo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png
+205,150,Mega Mewtwo X.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/150_f2.png
+206,150,Mega Mewtwo Y.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/150_f3.png
+207,151,Mew.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png
+208,152,Chikorita.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/152.png
+209,153,Bayleef.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/153.png
+210,154,Meganium.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/154.png
+211,155,Cyndaquil.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/155.png
+212,156,Quilava.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/156.png
+213,157,Typhlosion.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/157.png
+214,158,Totodile.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/158.png
+215,159,Croconaw.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/159.png
+216,160,Feraligatr.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/160.png
+217,161,Sentret.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/161.png
+218,162,Furret.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/162.png
+219,163,Hoothoot.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/163.png
+220,164,Noctowl.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/164.png
+221,165,Ledyba.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/165.png
+222,166,Ledian.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/166.png
+223,167,Spinarak.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/167.png
+224,168,Ariados.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/168.png
+225,169,Crobat.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/169.png
+226,170,Chinchou.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/170.png
+227,171,Lanturn.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/171.png
+228,172,Pichu.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/172.png
+229,173,Cleffa.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/173.png
+230,174,Igglybuff.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/174.png
+231,175,Togepi.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/175.png
+232,176,Togetic.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/176.png
+233,177,Natu.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/177.png
+234,178,Xatu.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/178.png
+235,179,Mareep.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/179.png
+236,180,Flaaffy.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/180.png
+237,181,Ampharos.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/181.png
+238,181,Mega Ampharos.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/181_f2.png
+239,182,Bellossom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/182.png
+240,183,Marill.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/183.png
+241,184,Azumarill.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/184.png
+242,185,Sudowoodo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/185.png
+243,186,Politoed.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/186.png
+244,187,Hoppip.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/187.png
+245,188,Skiploom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/188.png
+246,189,Jumpluff.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/189.png
+247,190,Aipom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/190.png
+248,191,Sunkern.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/191.png
+249,192,Sunflora.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/192.png
+250,193,Yanma.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/193.png
+251,194,Wooper.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/194.png
+252,195,Quagsire.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/195.png
+253,196,Espeon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/196.png
+254,197,Umbreon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/197.png
+255,198,Murkrow.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/198.png
+256,199,Slowking.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/199.png
+257,199,Galarian Slowking.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/199_f2.png
+258,200,Misdreavus.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/200.png
+259,201,Unown.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/201.png
+260,202,Wobbuffet.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/202.png
+261,203,Girafarig.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/203.png
+262,204,Pineco.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/204.png
+263,205,Forretress.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/205.png
+264,206,Dunsparce.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/206.png
+265,207,Gligar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/207.png
+266,208,Steelix.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/208.png
+267,208,Mega Steelix.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/208_f2.png
+268,209,Snubbull.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/209.png
+269,210,Granbull.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/210.png
+270,211,Qwilfish.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/211.png
+271,212,Scizor.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png
+272,212,Mega Scizor.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/212_f2.png
+273,213,Shuckle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/213.png
+274,214,Heracross.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/214.png
+275,214,Mega Heracross.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/214_f2.png
+276,215,Sneasel.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/215.png
+277,216,Teddiursa.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/216.png
+278,217,Ursaring.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/217.png
+279,218,Slugma.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/218.png
+280,219,Magcargo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/219.png
+281,220,Swinub.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/220.png
+282,221,Piloswine.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/221.png
+283,222,Corsola.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/222.png
+284,222,Galarian Corsola.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/222_f2.png
+285,223,Remoraid.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/223.png
+286,224,Octillery.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/224.png
+287,225,Delibird.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/225.png
+288,226,Mantine.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/226.png
+289,227,Skarmory.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/227.png
+290,228,Houndour.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/228.png
+291,229,Houndoom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/229.png
+292,229,Mega Houndoom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/229_f2.png
+293,230,Kingdra.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/230.png
+294,231,Phanpy.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/231.png
+295,232,Donphan.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/232.png
+296,233,Porygon2.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/233.png
+297,234,Stantler.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/234.png
+298,235,Smeargle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/235.png
+299,236,Tyrogue.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/236.png
+300,237,Hitmontop.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/237.png
+301,238,Smoochum.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/238.png
+302,239,Elekid.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/239.png
+303,240,Magby.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/240.png
+304,241,Miltank.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/241.png
+305,242,Blissey.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/242.png
+306,243,Raikou.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/243.png
+307,244,Entei.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/244.png
+308,245,Suicune.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/245.png
+309,246,Larvitar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/246.png
+310,247,Pupitar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/247.png
+311,248,Tyranitar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/248.png
+312,248,Mega Tyranitar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/248_f2.png
+313,249,Lugia.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/249.png
+314,250,Ho-oh.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/250.png
+315,251,Celebi.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/251.png
+316,252,Treecko.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/252.png
+317,253,Grovyle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/253.png
+318,254,Sceptile.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/254.png
+319,254,Mega Sceptile.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/254_f2.png
+320,255,Torchic.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/255.png
+321,256,Combusken.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/256.png
+322,257,Blaziken.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/257.png
+323,257,Mega Blaziken.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/257_f2.png
+324,258,Mudkip.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/258.png
+325,259,Marshtomp.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/259.png
+326,260,Swampert.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/260.png
+327,260,Mega Swampert.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/260_f2.png
+328,261,Poochyena.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/261.png
+329,262,Mightyena.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/262.png
+330,263,Zigzagoon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/263.png
+331,263,Galarian Zigzagoon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/263_f2.png
+332,264,Linoone.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/264.png
+333,264,Galarian Linoone.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/264_f2.png
+334,265,Wurmple.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/265.png
+335,266,Silcoon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/266.png
+336,267,Beautifly.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/267.png
+337,268,Cascoon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/268.png
+338,269,Dustox.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/269.png
+339,270,Lotad.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/270.png
+340,271,Lombre.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/271.png
+341,272,Ludicolo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/272.png
+342,273,Seedot.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/273.png
+343,274,Nuzleaf.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/274.png
+344,275,Shiftry.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/275.png
+345,276,Taillow.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/276.png
+346,277,Swellow.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/277.png
+347,278,Wingull.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/278.png
+348,279,Pelipper.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/279.png
+349,280,Ralts.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/280.png
+350,281,Kirlia.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/281.png
+351,282,Gardevoir.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/282.png
+352,282,Mega Gardevoir.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/282_f2.png
+353,283,Surskit.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/283.png
+354,284,Masquerain.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/284.png
+355,285,Shroomish.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/285.png
+356,286,Breloom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/286.png
+357,287,Slakoth.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/287.png
+358,288,Vigoroth.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/288.png
+359,289,Slaking.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/289.png
+360,290,Nincada.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/290.png
+361,291,Ninjask.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/291.png
+362,292,Shedinja.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/292.png
+363,293,Whismur.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/293.png
+364,294,Loudred.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/294.png
+365,295,Exploud.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/295.png
+366,296,Makuhita.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/296.png
+367,297,Hariyama.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/297.png
+368,298,Azurill.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/298.png
+369,299,Nosepass.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/299.png
+370,300,Skitty.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/300.png
+371,301,Delcatty.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/301.png
+372,302,Sableye.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/302.png
+373,302,Mega Sableye.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/302_f2.png
+374,303,Mawile.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/303.png
+375,303,Mega Mawile.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/303_f2.png
+376,304,Aron.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/304.png
+377,305,Lairon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/305.png
+378,306,Aggron.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/306.png
+379,306,Mega Aggron.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/306_f2.png
+380,307,Meditite.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/307.png
+381,308,Medicham.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/308.png
+382,308,Mega Medicham.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/308_f2.png
+383,309,Electrike.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/309.png
+384,310,Manectric.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/310.png
+385,310,Mega Manectric.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/310_f2.png
+386,311,Plusle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/311.png
+387,312,Minun.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/312.png
+388,313,Volbeat.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/313.png
+389,314,Illumise.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/314.png
+390,315,Roselia.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/315.png
+391,316,Gulpin.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/316.png
+392,317,Swalot.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/317.png
+393,318,Carvanha.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/318.png
+394,319,Sharpedo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/319.png
+395,319,Mega Sharpedo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/319_f2.png
+396,320,Wailmer.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/320.png
+397,321,Wailord.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/321.png
+398,322,Numel.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/322.png
+399,323,Camerupt.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/323.png
+400,323,Mega Camerupt.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/323_f2.png
+401,324,Torkoal.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/324.png
+402,325,Spoink.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/325.png
+403,326,Grumpig.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/326.png
+404,327,Spinda.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/327.png
+405,328,Trapinch.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/328.png
+406,329,Vibrava.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/329.png
+407,330,Flygon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/330.png
+408,331,Cacnea.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/331.png
+409,332,Cacturne.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/332.png
+410,333,Swablu.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/333.png
+411,334,Altaria.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/334.png
+412,334,Mega Altaria.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/334_f2.png
+413,335,Zangoose.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/335.png
+414,336,Seviper.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/336.png
+415,337,Lunatone.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/337.png
+416,338,Solrock.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/338.png
+417,339,Barboach.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/339.png
+418,340,Whiscash.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/340.png
+419,341,Corphish.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/341.png
+420,342,Crawdaunt.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/342.png
+421,343,Baltoy.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/343.png
+422,344,Claydol.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/344.png
+423,345,Lileep.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/345.png
+424,346,Cradily.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/346.png
+425,347,Anorith.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/347.png
+426,348,Armaldo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/348.png
+427,349,Feebas.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/349.png
+428,350,Milotic.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/350.png
+429,351,Castform.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/351.png
+430,352,Kecleon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/352.png
+431,353,Shuppet.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/353.png
+432,354,Banette.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/354.png
+433,354,Mega Banette.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/354_f2.png
+434,355,Duskull.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/355.png
+435,356,Dusclops.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/356.png
+436,357,Tropius.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/357.png
+437,358,Chimecho.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/358.png
+438,359,Absol.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/359.png
+439,359,Mega Absol.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/359_f2.png
+440,360,Wynaut.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/360.png
+441,361,Snorunt.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/361.png
+442,362,Glalie.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/362.png
+443,362,Mega Glalie.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/362_f2.png
+444,363,Spheal.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/363.png
+445,364,Sealeo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/364.png
+446,365,Walrein.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/365.png
+447,366,Clamperl.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/366.png
+448,367,Huntail.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/367.png
+449,368,Gorebyss.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/368.png
+450,369,Relicanth.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/369.png
+451,370,Luvdisc.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/370.png
+452,371,Bagon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/371.png
+453,372,Shelgon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/372.png
+454,373,Salamence.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/373.png
+455,373,Mega Salamence.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/373_f2.png
+456,374,Beldum.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/374.png
+457,375,Metang.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/375.png
+458,376,Metagross.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/376.png
+459,376,Mega Metagross.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/376_f2.png
+460,377,Regirock.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/377.png
+461,378,Regice.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/378.png
+462,379,Registeel.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/379.png
+463,380,Latias.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/380.png
+464,380,Mega Latias.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/380_f2.png
+465,381,Latios.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/381.png
+466,381,Mega Latios.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/381_f2.png
+467,382,Kyogre.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/382.png
+468,382,Primal Kyogre.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/382_f2.png
+469,383,Groudon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/383.png
+470,383,Primal Groudon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/383_f2.png
+471,384,Rayquaza.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/384.png
+472,384,Mega Rayquaza.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/384_f2.png
+473,385,Jirachi.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/385.png
+474,386,Deoxys Normal Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/386.png
+475,386,Deoxys Attack Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/386_f2.png
+476,386,Deoxys Defense Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/386_f3.png
+477,386,Deoxys Speed Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/386_f4.png
+478,387,Turtwig.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/387.png
+479,388,Grotle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/388.png
+480,389,Torterra.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/389.png
+481,390,Chimchar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/390.png
+482,391,Monferno.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/391.png
+483,392,Infernape.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/392.png
+484,393,Piplup.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/393.png
+485,394,Prinplup.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/394.png
+486,395,Empoleon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/395.png
+487,396,Starly.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/396.png
+488,397,Staravia.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/397.png
+489,398,Staraptor.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/398.png
+490,399,Bidoof.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/399.png
+491,400,Bibarel.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/400.png
+492,401,Kricketot.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/401.png
+493,402,Kricketune.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/402.png
+494,403,Shinx.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/403.png
+495,404,Luxio.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/404.png
+496,405,Luxray.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/405.png
+497,406,Budew.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/406.png
+498,407,Roserade.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/407.png
+499,408,Cranidos.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/408.png
+500,409,Rampardos.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/409.png
+501,410,Shieldon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/410.png
+502,411,Bastiodon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/411.png
+503,412,Burmy.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/412.png
+504,413,Wormadam Plant Cloak.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/413.png
+505,413,Wormadam Sandy Cloak.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/413_f2.png
+506,413,Wormadam Trash Cloak.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/413_f3.png
+507,414,Mothim.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/414.png
+508,415,Combee.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/415.png
+509,416,Vespiquen.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/416.png
+510,417,Pachirisu.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/417.png
+511,418,Buizel.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/418.png
+512,419,Floatzel.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/419.png
+513,420,Cherubi.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/420.png
+514,421,Cherrim.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/421.png
+515,422,Shellos.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/422.png
+516,423,Gastrodon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/423.png
+517,424,Ambipom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/424.png
+518,425,Drifloon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/425.png
+519,426,Drifblim.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/426.png
+520,427,Buneary.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/427.png
+521,428,Lopunny.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/428.png
+522,428,Mega Lopunny.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/428_f2.png
+523,429,Mismagius.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/429.png
+524,430,Honchkrow.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/430.png
+525,431,Glameow.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/431.png
+526,432,Purugly.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/432.png
+527,433,Chingling.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/433.png
+528,434,Stunky.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/434.png
+529,435,Skuntank.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/435.png
+530,436,Bronzor.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/436.png
+531,437,Bronzong.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/437.png
+532,438,Bonsly.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/438.png
+533,439,Mime Jr..png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/439.png
+534,440,Happiny.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/440.png
+535,441,Chatot.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/441.png
+536,442,Spiritomb.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/442.png
+537,443,Gible.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/443.png
+538,444,Gabite.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/444.png
+539,445,Garchomp.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/445.png
+540,445,Mega Garchomp.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/445_f2.png
+541,446,Munchlax.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/446.png
+542,447,Riolu.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/447.png
+543,448,Lucario.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png
+544,448,Mega Lucario.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/448_f2.png
+545,449,Hippopotas.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/449.png
+546,450,Hippowdon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/450.png
+547,451,Skorupi.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/451.png
+548,452,Drapion.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/452.png
+549,453,Croagunk.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/453.png
+550,454,Toxicroak.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/454.png
+551,455,Carnivine.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/455.png
+552,456,Finneon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/456.png
+553,457,Lumineon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/457.png
+554,458,Mantyke.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/458.png
+555,459,Snover.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/459.png
+556,460,Abomasnow.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/460.png
+557,460,Mega Abomasnow.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/460_f2.png
+558,461,Weavile.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/461.png
+559,462,Magnezone.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/462.png
+560,463,Lickilicky.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/463.png
+561,464,Rhyperior.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/464.png
+562,465,Tangrowth.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/465.png
+563,466,Electivire.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/466.png
+564,467,Magmortar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/467.png
+565,468,Togekiss.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/468.png
+566,469,Yanmega.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/469.png
+567,470,Leafeon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/470.png
+568,471,Glaceon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/471.png
+569,472,Gliscor.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/472.png
+570,473,Mamoswine.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/473.png
+571,474,Porygon-Z.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/474.png
+572,475,Gallade.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/475.png
+573,475,Mega Gallade.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/475_f2.png
+574,476,Probopass.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/476.png
+575,477,Dusknoir.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/477.png
+576,478,Froslass.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/478.png
+577,479,Rotom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/479.png
+578,479,Heat Rotom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/479_f2.png
+579,479,Wash Rotom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/479_f3.png
+580,479,Frost Rotom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/479_f4.png
+581,479,Fan Rotom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/479_f5.png
+582,479,Mow Rotom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/479_f6.png
+583,480,Uxie.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/480.png
+584,481,Mesprit.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/481.png
+585,482,Azelf.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/482.png
+586,483,Dialga.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/483.png
+587,484,Palkia.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/484.png
+588,485,Heatran.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/485.png
+589,486,Regigigas.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/486.png
+590,487,Giratina Altered Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/487.png
+591,487,Giratina Origin Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/487_f2.png
+592,488,Cresselia.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/488.png
+593,489,Phione.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/489.png
+594,490,Manaphy.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/490.png
+595,491,Darkrai.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/491.png
+596,492,Shaymin Land Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/492.png
+597,492,Shaymin Sky Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/492_f2.png
+598,493,Arceus.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/493.png
+599,494,Victini.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/494.png
+600,495,Snivy.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/495.png
+601,496,Servine.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/496.png
+602,497,Serperior.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/497.png
+603,498,Tepig.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/498.png
+604,499,Pignite.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/499.png
+605,500,Emboar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/500.png
+606,501,Oshawott.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/501.png
+607,502,Dewott.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/502.png
+608,503,Samurott.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/503.png
+609,504,Patrat.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/504.png
+610,505,Watchog.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/505.png
+611,506,Lillipup.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/506.png
+612,507,Herdier.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/507.png
+613,508,Stoutland.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/508.png
+614,509,Purrloin.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/509.png
+615,510,Liepard.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/510.png
+616,511,Pansage.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/511.png
+617,512,Simisage.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/512.png
+618,513,Pansear.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/513.png
+619,514,Simisear.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/514.png
+620,515,Panpour.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/515.png
+621,516,Simipour.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/516.png
+622,517,Munna.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/517.png
+623,518,Musharna.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/518.png
+624,519,Pidove.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/519.png
+625,520,Tranquill.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/520.png
+626,521,Unfezant.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/521.png
+627,522,Blitzle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/522.png
+628,523,Zebstrika.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/523.png
+629,524,Roggenrola.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/524.png
+630,525,Boldore.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/525.png
+631,526,Gigalith.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/526.png
+632,527,Woobat.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/527.png
+633,528,Swoobat.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/528.png
+634,529,Drilbur.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/529.png
+635,530,Excadrill.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/530.png
+636,531,Audino.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/531.png
+637,531,Mega Audino.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/531_f2.png
+638,532,Timburr.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/532.png
+639,533,Gurdurr.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/533.png
+640,534,Conkeldurr.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/534.png
+641,535,Tympole.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/535.png
+642,536,Palpitoad.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/536.png
+643,537,Seismitoad.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/537.png
+644,538,Throh.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/538.png
+645,539,Sawk.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/539.png
+646,540,Sewaddle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/540.png
+647,541,Swadloon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/541.png
+648,542,Leavanny.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/542.png
+649,543,Venipede.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/543.png
+650,544,Whirlipede.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/544.png
+651,545,Scolipede.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/545.png
+652,546,Cottonee.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/546.png
+653,547,Whimsicott.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/547.png
+654,548,Petilil.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/548.png
+655,549,Lilligant.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/549.png
+656,550,Basculin.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/550.png
+657,551,Sandile.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/551.png
+658,552,Krokorok.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/552.png
+659,553,Krookodile.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/553.png
+660,554,Darumaka.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/554.png
+661,554,Galarian Darumaka.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/554_f2.png
+662,555,Darmanitan Standard Mode.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/555.png
+663,555,Galarian Darmanitan Standard Mode.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/555_f2.png
+664,555,Darmanitan Zen Mode.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/555_f3.png
+665,555,Galarian Darmanitan Zen Mode.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/555_f4.png
+666,556,Maractus.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/556.png
+667,557,Dwebble.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/557.png
+668,558,Crustle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/558.png
+669,559,Scraggy.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/559.png
+670,560,Scrafty.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/560.png
+671,561,Sigilyph.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/561.png
+672,562,Yamask.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/562.png
+673,562,Galarian Yamask.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/562_f2.png
+674,563,Cofagrigus.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/563.png
+675,564,Tirtouga.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/564.png
+676,565,Carracosta.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/565.png
+677,566,Archen.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/566.png
+678,567,Archeops.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/567.png
+679,568,Trubbish.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/568.png
+680,569,Garbodor.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/569.png
+681,569,Gigantamax Garbodor.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/569_f2.png
+682,570,Zorua.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/570.png
+683,571,Zoroark.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/571.png
+684,572,Minccino.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/572.png
+685,573,Cinccino.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/573.png
+686,574,Gothita.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/574.png
+687,575,Gothorita.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/575.png
+688,576,Gothitelle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/576.png
+689,577,Solosis.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/577.png
+690,578,Duosion.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/578.png
+691,579,Reuniclus.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/579.png
+692,580,Ducklett.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/580.png
+693,581,Swanna.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/581.png
+694,582,Vanillite.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/582.png
+695,583,Vanillish.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/583.png
+696,584,Vanilluxe.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/584.png
+697,585,Deerling.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/585.png
+698,586,Sawsbuck.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/586.png
+699,587,Emolga.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/587.png
+700,588,Karrablast.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/588.png
+701,589,Escavalier.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/589.png
+702,590,Foongus.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/590.png
+703,591,Amoonguss.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/591.png
+704,592,Frillish.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/592.png
+705,593,Jellicent.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/593.png
+706,594,Alomomola.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/594.png
+707,595,Joltik.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/595.png
+708,596,Galvantula.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/596.png
+709,597,Ferroseed.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/597.png
+710,598,Ferrothorn.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/598.png
+711,599,Klink.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/599.png
+712,600,Klang.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/600.png
+713,601,Klinklang.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/601.png
+714,602,Tynamo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/602.png
+715,603,Eelektrik.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/603.png
+716,604,Eelektross.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/604.png
+717,605,Elgyem.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/605.png
+718,606,Beheeyem.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/606.png
+719,607,Litwick.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/607.png
+720,608,Lampent.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/608.png
+721,609,Chandelure.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/609.png
+722,610,Axew.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/610.png
+723,611,Fraxure.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/611.png
+724,612,Haxorus.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/612.png
+725,613,Cubchoo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/613.png
+726,614,Beartic.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/614.png
+727,615,Cryogonal.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/615.png
+728,616,Shelmet.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/616.png
+729,617,Accelgor.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/617.png
+730,618,Stunfisk.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/618.png
+731,618,Galarian Stunfisk.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/618_f2.png
+732,619,Mienfoo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/619.png
+733,620,Mienshao.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/620.png
+734,621,Druddigon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/621.png
+735,622,Golett.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/622.png
+736,623,Golurk.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/623.png
+737,624,Pawniard.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/624.png
+738,625,Bisharp.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/625.png
+739,626,Bouffalant.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/626.png
+740,627,Rufflet.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/627.png
+741,628,Braviary.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/628.png
+742,629,Vullaby.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/629.png
+743,630,Mandibuzz.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/630.png
+744,631,Heatmor.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/631.png
+745,632,Durant.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/632.png
+746,633,Deino.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/633.png
+747,634,Zweilous.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/634.png
+748,635,Hydreigon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/635.png
+749,636,Larvesta.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/636.png
+750,637,Volcarona.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/637.png
+751,638,Cobalion.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/638.png
+752,639,Terrakion.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/639.png
+753,640,Virizion.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/640.png
+754,641,Tornadus Incarnate Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/641.png
+755,641,Tornadus Therian Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/641_f2.png
+756,642,Thundurus Incarnate Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/642.png
+757,642,Thundurus Therian Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/642_f2.png
+758,643,Reshiram.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/643.png
+759,644,Zekrom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/644.png
+760,645,Landorus Incarnate Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/645.png
+761,645,Landorus Therian Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/645_f2.png
+762,646,Kyurem.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/646.png
+763,646,Black Kyurem.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/646_f2.png
+764,646,White Kyurem.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/646_f3.png
+765,647,Keldeo Ordinary Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/647.png
+766,647,Keldeo Resolute Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/647_f2.png
+767,648,Meloetta Aria Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/648.png
+768,648,Meloetta Pirouette Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/648_f2.png
+769,649,Genesect.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/649.png
+770,650,Chespin.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/650.png
+771,651,Quilladin.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/651.png
+772,652,Chesnaught.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/652.png
+773,653,Fennekin.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/653.png
+774,654,Braixen.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/654.png
+775,655,Delphox.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/655.png
+776,656,Froakie.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/656.png
+777,657,Frogadier.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/657.png
+778,658,Greninja.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/658.png
+779,658,Ash-Greninja.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/658_f2.png
+780,659,Bunnelby.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/659.png
+781,660,Diggersby.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/660.png
+782,661,Fletchling.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/661.png
+783,662,Fletchinder.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/662.png
+784,663,Talonflame.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/663.png
+785,664,Scatterbug.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/664.png
+786,665,Spewpa.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/665.png
+787,666,Vivillon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/666.png
+788,667,Litleo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/667.png
+789,668,Pyroar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/668.png
+790,669,FlabÃ©bÃ©.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/669.png
+791,670,Floette.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/670.png
+792,671,Florges.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/671.png
+793,672,Skiddo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/672.png
+794,673,Gogoat.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/673.png
+795,674,Pancham.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/674.png
+796,675,Pangoro.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/675.png
+797,676,Furfrou.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/676.png
+798,677,Espurr.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/677.png
+799,678,Meowstic Male.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/678.png
+800,678,Meowstic Female.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/678_f2.png
+801,679,Honedge.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/679.png
+802,680,Doublade.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/680.png
+803,681,Aegislash Blade Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/681.png
+804,681,Aegislash Shield Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/681_f2.png
+805,682,Spritzee.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/682.png
+806,683,Aromatisse.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/683.png
+807,684,Swirlix.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/684.png
+808,685,Slurpuff.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/685.png
+809,686,Inkay.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/686.png
+810,687,Malamar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/687.png
+811,688,Binacle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/688.png
+812,689,Barbaracle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/689.png
+813,690,Skrelp.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/690.png
+814,691,Dragalge.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/691.png
+815,692,Clauncher.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/692.png
+816,693,Clawitzer.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/693.png
+817,694,Helioptile.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/694.png
+818,695,Heliolisk.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/695.png
+819,696,Tyrunt.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/696.png
+820,697,Tyrantrum.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/697.png
+821,698,Amaura.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/698.png
+822,699,Aurorus.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/699.png
+823,700,Sylveon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/700.png
+824,701,Hawlucha.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/701.png
+825,702,Dedenne.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/702.png
+826,703,Carbink.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/703.png
+827,704,Goomy.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/704.png
+828,705,Sliggoo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/705.png
+829,706,Goodra.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/706.png
+830,707,Klefki.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/707.png
+831,708,Phantump.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/708.png
+832,709,Trevenant.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/709.png
+833,710,Pumpkaboo Average Size.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/710.png
+834,710,Pumpkaboo Small Size.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/710_f2.png
+835,710,Pumpkaboo Large Size.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/710_f3.png
+836,710,Pumpkaboo Super Size.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/710_f4.png
+837,711,Gourgeist Average Size.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/711.png
+838,711,Gourgeist Small Size.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/711_f2.png
+839,711,Gourgeist Large Size.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/711_f3.png
+840,711,Gourgeist Super Size.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/711_f4.png
+841,712,Bergmite.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/712.png
+842,713,Avalugg.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/713.png
+843,714,Noibat.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/714.png
+844,715,Noivern.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/715.png
+845,716,Xerneas.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/716.png
+846,717,Yveltal.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/717.png
+847,718,Zygarde 10% Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/718.png
+848,718,Zygarde 50% Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/718_f2.png
+849,718,Zygarde Complete Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/718_f3.png
+850,719,Diancie.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/719.png
+851,719,Mega Diancie.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/719_f2.png
+852,720,Hoopa Confined.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/720.png
+853,720,Hoopa Unbound.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/720_f2.png
+854,721,Volcanion.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/721.png
+855,722,Rowlet.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/722.png
+856,723,Dartrix.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/723.png
+857,724,Decidueye.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/724.png
+858,725,Litten.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/725.png
+859,726,Torracat.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/726.png
+860,727,Incineroar.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/727.png
+861,728,Popplio.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/728.png
+862,729,Brionne.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/729.png
+863,730,Primarina.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/730.png
+864,731,Pikipek.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/731.png
+865,732,Trumbeak.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/732.png
+866,733,Toucannon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/733.png
+867,734,Yungoos.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/734.png
+868,735,Gumshoos.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/735.png
+869,736,Grubbin.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/736.png
+870,737,Charjabug.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/737.png
+871,738,Vikavolt.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/738.png
+872,739,Crabrawler.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/739.png
+873,740,Crabominable.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/740.png
+874,741,Oricorio Baile Style.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/741.png
+875,741,Oricorio Pom-Pom Style.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/741_f2.png
+876,741,Oricorio P'au Style.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/741_f3.png
+877,741,Oricorio Sensu Style.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/741_f4.png
+878,742,Cutiefly.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/742.png
+879,743,Ribombee.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/743.png
+880,744,Rockruff.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/744.png
+881,745,Lycanroc Midday Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/745.png
+882,745,Lycanroc Midnight Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/745_f2.png
+883,745,Lycanroc Dusk Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/745_f3.png
+884,746,Wishiwashi Solo Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/746.png
+885,746,Wishiwashi School Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/746_f2.png
+886,747,Mareanie.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/747.png
+887,748,Toxapex.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/748.png
+888,749,Mudbray.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/749.png
+889,750,Mudsdale.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/750.png
+890,751,Dewpider.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/751.png
+891,752,Araquanid.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/752.png
+892,753,Fomantis.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/753.png
+893,754,Lurantis.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/754.png
+894,755,Morelull.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/755.png
+895,756,Shiinotic.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/756.png
+896,757,Salandit.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/757.png
+897,758,Salazzle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/758.png
+898,759,Stufful.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/759.png
+899,760,Bewear.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/760.png
+900,761,Bounsweet.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/761.png
+901,762,Steenee.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/762.png
+902,763,Tsareena.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/763.png
+903,764,Comfey.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/764.png
+904,765,Oranguru.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/765.png
+905,766,Passimian.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/766.png
+906,767,Wimpod.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/767.png
+907,768,Golisopod.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/768.png
+908,769,Sandygast.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/769.png
+909,770,Palossand.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/770.png
+910,771,Pyukumuku.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/771.png
+911,772,Type: Null.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/772.png
+912,773,Silvally.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/773.png
+913,774,Minior Meteor Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/774.png
+914,774,Minior Core Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/774_f2.png
+915,775,Komala.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/775.png
+916,776,Turtonator.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/776.png
+917,777,Togedemaru.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/777.png
+918,778,Mimikyu.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/778.png
+919,779,Bruxish.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/779.png
+920,780,Drampa.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/780.png
+921,781,Dhelmise.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/781.png
+922,782,Jangmo-o.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/782.png
+923,783,Hakamo-o.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/783.png
+924,784,Kommo-o.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/784.png
+925,785,Tapu Koko.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/785.png
+926,786,Tapu Lele.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/786.png
+927,787,Tapu Bulu.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/787.png
+928,788,Tapu Fini.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/788.png
+929,789,Cosmog.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/789.png
+930,790,Cosmoem.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/790.png
+931,791,Solgaleo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/791.png
+932,792,Lunala.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/792.png
+933,793,Nihilego.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/793.png
+934,794,Buzzwole.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/794.png
+935,795,Pheromosa.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/795.png
+936,796,Xurkitree.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/796.png
+937,797,Celesteela.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/797.png
+938,798,Kartana.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/798.png
+939,799,Guzzlord.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/799.png
+940,800,Necrozma.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/800.png
+941,800,Dusk Mane Necrozma.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/800_f2.png
+942,800,Dawn Wings Necrozma.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/800_f3.png
+943,800,Ultra Necrozma.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/800_f4.png
+944,801,Magearna.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/801.png
+945,802,Marshadow.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/802.png
+946,803,Poipole.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/803.png
+947,804,Naganadel.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/804.png
+948,805,Stakataka.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/805.png
+949,806,Blacephalon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/806.png
+950,807,Zeraora.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/807.png
+951,808,Meltan.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/808.png
+952,809,Melmetal.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/809.png
+953,809,Gigantamax Melmetal.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/809_f2.png
+954,810,Grookey.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/810.png
+955,811,Thwackey.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/811.png
+956,812,Rillaboom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/812.png
+957,812,Gigantamax Rillaboom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/812_f2.png
+958,813,Scorbunny.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/813.png
+959,814,Raboot.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/814.png
+960,815,Cinderace.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/815.png
+961,815,Gigantamax Cinderace.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/815_f2.png
+962,816,Sobble.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/816.png
+963,817,Drizzile.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/817.png
+964,818,Inteleon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/818.png
+965,818,Gigantamax Inteleon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/818_f2.png
+966,819,Skwovet.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/819.png
+967,820,Greedent.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/820.png
+968,821,Rookidee.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/821.png
+969,822,Corvisquire.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/822.png
+970,823,Corviknight.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/823.png
+971,823,Gigantamax Corviknight.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/823_f2.png
+972,824,Blipbug.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/824.png
+973,825,Dottler.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/825.png
+974,826,Orbeetle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/826.png
+975,826,Gigantamax Orbeetle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/826_f2.png
+976,827,Nickit.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/827.png
+977,828,Thievul.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/828.png
+978,829,Gossifleur.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/829.png
+979,830,Eldegoss.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/830.png
+980,831,Wooloo.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/831.png
+981,832,Dubwool.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/832.png
+982,833,Chewtle.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/833.png
+983,834,Drednaw.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/834.png
+984,834,Gigantamax Drednaw.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/834_f2.png
+985,835,Yamper.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/835.png
+986,836,Boltund.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/836.png
+987,837,Rolycoly.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/837.png
+988,838,Carkol.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/838.png
+989,839,Coalossal.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/839.png
+990,839,Gigantamax Coalossal.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/839_f2.png
+991,840,Applin.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/840.png
+992,841,Flapple.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/841.png
+993,841,Gigantamax Flapple.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/841_f2.png
+994,842,Appletun.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/842.png
+995,842,Gigantamax Appletun.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/842_f2.png
+996,843,Silicobra.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/843.png
+997,844,Sandaconda.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/844.png
+998,844,Gigantamax Sandaconda.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/844_f2.png
+999,845,Cramorant.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/845.png
+1000,846,Arrokuda.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/846.png
+1001,847,Barraskewda.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/847.png
+1002,848,Toxel.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/848.png
+1003,849,Toxtricity Amped Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/849.png
+1004,849,Toxitricity Low Key Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/849_f2.png
+1005,849,Gigantamax Toxitricity.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/849_f3.png
+1006,850,Sizzlipede.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/850.png
+1007,851,Centiskorch.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/851.png
+1008,851,Gigantamax Centiskorch.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/851_f2.png
+1009,852,Clobbopus.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/852.png
+1010,853,Grapploct.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/853.png
+1011,854,Sinistea.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/854.png
+1012,855,Polteageist.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/855.png
+1013,856,Hatenna.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/856.png
+1014,857,Hattrem.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/857.png
+1015,858,Hatterene.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/858.png
+1016,858,Gigantamax Hatterene.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/858_f2.png
+1017,859,Impidimp.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/859.png
+1018,860,Morgrem.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/860.png
+1019,861,Grimmsnarl.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/861.png
+1020,861,Gigantamax Grimmsnarl.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/861_f2.png
+1021,862,Obstagoon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/862.png
+1022,863,Perrserker.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/863.png
+1023,864,Cursola.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/864.png
+1024,865,Sirfetch'd.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/865.png
+1025,866,Mr. Rime.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/866.png
+1026,867,Runerigus.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/867.png
+1027,868,Milcery.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/868.png
+1028,869,Alcremie.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/869.png
+1029,869,Gigantamax Alcremie.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/869_f2.png
+1030,870,Falinks.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/870.png
+1031,871,Pincurchin.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/871.png
+1032,872,Snom.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/872.png
+1033,873,Frosmoth.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/873.png
+1034,874,Stonjourner.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/874.png
+1035,875,Eiscue Ice Face.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/875.png
+1036,875,Eiscue Noice Face.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/875_f2.png
+1037,876,Indeedee Male.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/876.png
+1038,876,Indeedee Female.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/876_f2.png
+1039,877,Morpeko Full Belly Mode.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/877.png
+1040,877,Morpeko Hangry Mode.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/877_f2.png
+1041,878,Cufant.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/878.png
+1042,879,Copperajah.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/879.png
+1043,879,Gigantamax Copperajah.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/879_f2.png
+1044,880,Dracozolt.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/880.png
+1045,881,Arctozolt.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/881.png
+1046,882,Dracovish.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/882.png
+1047,883,Arctovish.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/883.png
+1048,884,Duraludon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/884.png
+1049,884,Gigantamax Duraludon.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/884_f2.png
+1050,885,Dreepy.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/885.png
+1051,886,Drakloak.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/886.png
+1052,887,Dragapult.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/887.png
+1053,888,Zacian Hero of Many Battles.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/888.png
+1054,888,Zacian Crowned Sword Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/888_f2.png
+1055,889,Zamazenta Hero of Many Battles.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/889.png
+1056,889,Zamazenta Crowned Sheild Forme.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/889_f2.png
+1057,890,Eternatus.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/890.png
+1058,890,Eternamax Eternatus.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/890_f2.png
+1059,891,Kubfu.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/891.png
+1060,892,Urshifu Single Strike Style.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/892.png
+1061,892,Gigantamax Urshifu Single Strike Style.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/892_f2.png
+1062,892,Urshifu Rapid Strike Style.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/892_f3.png
+1063,892,Gigantamax Urshifu Rapid Strike Style.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/892_f4.png
+1064,893,Zarude.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/893.png
+1065,893,Dada Zarude.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/893_f2.png
+1066,894,Regieleki.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/894.png
+1067,895,Regidrago.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/895.png
+1068,896,Glastrier.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/896.png
+1069,897,Spectrier.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/897.png
+1070,898,Calyrex.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/898.png
+1071,898,Ice Rider Calyrex.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/898_f2.png
+1072,898,Shadow Rider Calyrex.png,https://assets.pokemon.com/assets/cms2/img/pokedex/full/898_f3.png
