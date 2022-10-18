@@ -1,0 +1,14 @@
+﻿coluna,significado
+Number, O ID/identificação numérica de cada pokémon
+Name, O nome de cada pokémon
+Type 1, Cada pokémon tem um tipo, isso determina fraqueza/resistência a ataques
+Type 2, Alguns pokémons são do tipo dual e possuem dois tipos
+Total, Soma de todas as estatísticas, um guia geral de quão forte é um pokémon
+HP, Pontos de vida, ou saúde, definem quanto dano um pokémon pode suportar antes de desmaiar
+Attack, Tipo de ataque
+Defense, Defesa, a resistência base a dano contra ataques normais
+SP Atk, Ataque especial, o modificador básico para ataques especiais (por exemplo, explosão de fogo)
+SP Def, Defesa especial, a resistência base a danos contra ataques especiais
+Velocidade, Determina qual pokémon ataca primeiro a cada rodada
+Generation, A geração de jogos onde o pokémon foi introduzido pela primeira vez
+Lendary," Alguns pokémons são muito mais raros que outros e são apelidados de ""lendários"""
