@@ -1,0 +1,1418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="170mm"
+   height="900mm"
+   viewBox="0 0 170 899.99999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="desenho.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0104048"
+     inkscape:cx="245.94103"
+     inkscape:cy="2584.6077"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g148047"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="145.06974,890.31124"
+       orientation="1,0"
+       id="guide5246" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1339">
+      <circle
+         style="opacity:0.584656;fill:#ff0000;fill-rule:evenodd;stroke-width:0.262661"
+         id="circle1341"
+         cx="56.287354"
+         cy="67.238228"
+         r="26.837269" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1387">
+      <circle
+         style="opacity:0.584656;fill:#ff0000;fill-rule:evenodd;stroke-width:0.262661"
+         id="circle1389"
+         cx="54.421688"
+         cy="116.11134"
+         r="26.837269" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1435">
+      <circle
+         style="opacity:0.584656;fill:#ff0000;fill-rule:evenodd;stroke-width:0.262661"
+         id="circle1437"
+         cx="80.699677"
+         cy="132.7701"
+         r="26.837269" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.081157,-11.085517)">
+    <g
+       id="g37079-3"
+       transform="matrix(0.12841694,0,0,0.12841694,41.205323,13.610258)" />
+    <g
+       id="g135751"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_terrestre.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#e87236;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6"
+         width="114.99343"
+         height="44.245892"
+         x="80.647789"
+         y="20.105143"
+         ry="22.122946" />
+      <rect
+         style="fill:#e87236;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="20.105143"
+         ry="22.122946" />
+      <rect
+         style="fill:#e87236;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="20.101856"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="134.29225"
+         y="48.469234"
+         id="text8993-6-7-9-0"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="134.29225"
+           y="48.469234">TERRESTRE</tspan></text>
+      <path
+         class="st1"
+         d="m 51.533902,50.828159 c -0.0073,0 -0.01225,-0.0071 -0.0099,-0.01393 l 6.759679,-17.254141 c 0.0015,-0.0042 0.0054,-0.0069 0.0099,-0.0069 h 8.558195 c 0.0044,0 0.0085,0.0029 0.0099,0.0071 l 6.659206,17.25414 c 0.0026,0.0067 -0.0026,0.01376 -0.0099,0.01376 z m -8.001988,0.07483 c -0.0073,0 -0.01225,-0.0073 -0.0097,-0.01409 l 5.201325,-13.438381 c 0.0015,-0.004 0.0054,-0.0068 0.0098,-0.0068 h 4.373645 c 0.0073,0 0.01225,0.0073 0.0098,0.01393 l -5.035052,13.43838 c -0.0015,0.004 -0.0054,0.0069 -0.0098,0.0069 z"
+         id="path6"
+         style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.167784" />
+    </g>
+    <g
+       id="g135768"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_eletrico.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g135759">
+        <rect
+           style="fill:#fbd100;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect17812-3-5-7-6-3"
+           width="114.99343"
+           height="44.245892"
+           x="80.647789"
+           y="69.665039"
+           ry="22.122946" />
+        <rect
+           style="fill:#fbd100;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect17812-3-5-7-6-4-1"
+           width="159.2459"
+           height="44.245892"
+           x="36.395317"
+           y="69.665039"
+           ry="22.122946" />
+        <rect
+           style="fill:#fbd100;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect17812-3-5-7-6-9-7"
+           width="44.252464"
+           height="44.252464"
+           x="36.395317"
+           y="69.661751"
+           ry="22.126232" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="133.617"
+           y="99.823341"
+           id="text8993-6-7-9-0-0"><tspan
+             sodipodi:role="line"
+             id="tspan8991-2-6-2-6-0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+             x="133.617"
+             y="99.823341">ELÉTRICO</tspan></text>
+        <polygon
+           class="st1"
+           points="111.138,101.734 66.225,101.734 154.632,206.581 137.343,138.406 180.975,138.406 153.849,54.619 95.401,54.619 "
+           id="polygon6"
+           style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd"
+           transform="matrix(0.17241979,0,0,0.17241979,37.210461,69.269956)" />
+      </g>
+    </g>
+    <g
+       id="g135776"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_fantasma.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#4c6ab2;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4"
+         width="114.99343"
+         height="44.245892"
+         x="80.647789"
+         y="119.22493"
+         ry="22.122946" />
+      <rect
+         style="fill:#4c6ab2;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="119.22493"
+         ry="22.122946" />
+      <rect
+         style="fill:#4c6ab2;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="119.22163"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="133.34863"
+         y="147.58902"
+         id="text8993-6-7-9-0-0-6"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="133.34863"
+           y="147.58902">FANTASMA</tspan></text>
+      <path
+         class="st1"
+         d="m 69.700824,152.88647 c -0.14734,-0.081 -0.29335,-0.16434 -0.43952,-0.24768 -0.0591,-0.0337 -0.119,-0.0662 -0.17784,-0.10017 -0.40302,-0.23368 -0.73937,-0.54602 -1.03105,-0.90488 -0.40402,-0.49685 -0.47303,-1.03772 -0.18435,-1.61709 0.0836,-0.16768 0.21852,-0.294 0.33802,-0.43335 3.11683,-3.63386 4.07972,-7.76841 2.67215,-12.34698 -1.77094,-5.76097 -7.51074,-9.62501 -13.88691,-8.90214 -2.74047,0.31069 -5.18544,1.36907 -7.2037,3.2545 -3.61187,3.37418 -4.92876,7.51457 -3.93438,12.37182 1.22656,4.65859 4.06289,7.47773 8.51678,9.30699 1.23107,0.42236 2.69198,0.76487 3.97471,0.97238 0.97939,0.15835 1.84843,0.20002 2.83582,0.20702 0.49286,0.004 1.01454,-0.001 1.59509,-0.005 1.05822,0.0109 1.4724,-0.0326 2.20344,-0.099 1.59591,-0.14534 3.11283,-0.60453 4.5784,-1.24206 0.0482,-0.021 0.0958,-0.043 0.14385,-0.064 0.11651,-0.0508 0.0961,-0.0971 -5.1e-4,-0.15033 z m -12.92367,-13.07235 c -0.22585,1.43824 -1.42107,2.4643 -2.87598,2.4603 -1.22691,-0.003 -2.3013,-0.76155 -2.71348,-1.91477 -0.40969,-1.14656 -0.0562,-2.4328 0.88188,-3.20484 0.0709,-0.0583 0.1435,-0.11566 0.22101,-0.16418 0.16584,-0.10383 0.19668,-0.0927 0.21934,0.10068 0.0464,0.39502 0.14585,0.77288 0.33185,1.12573 0.68337,1.29606 2.22545,1.87426 3.60652,1.3234 0.41703,-0.16634 0.38102,-0.0591 0.32886,0.27368 z m 3.47868,0.12984 c -0.0177,-0.0899 -0.0321,-0.18117 -0.0375,-0.27251 -0.0138,-0.23385 0.0155,-0.26052 0.23352,-0.16735 0.63987,0.27352 1.2949,0.31968 1.96226,0.13501 1.1139,-0.30819 1.93394,-1.28123 2.06779,-2.4308 0.011,-0.0946 -0.0443,-0.23634 0.088,-0.271 0.10483,-0.0275 0.18801,0.0762 0.27084,0.1375 0.97772,0.7242 1.39075,2.03377 1.01106,3.19934 -0.39469,1.21106 -1.49142,2.00343 -2.76882,2.00027 -1.3854,-0.004 -2.56047,-0.97156 -2.82714,-2.33046 z"
+         id="path6-8"
+         style="fill:#fefefe;stroke-width:0.166675" />
+    </g>
+    <g
+       id="g135784"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_venenoso.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#b567ce;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4-0"
+         width="114.99343"
+         height="44.245892"
+         x="80.647789"
+         y="168.78482"
+         ry="22.122946" />
+      <rect
+         style="fill:#b567ce;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5-7"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="168.78482"
+         ry="22.122946" />
+      <rect
+         style="fill:#b567ce;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="168.78152"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="134.18269"
+         y="197.14891"
+         id="text8993-6-7-9-0-0-6-0"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="134.18269"
+           y="197.14891">VENENOSO</tspan></text>
+      <path
+         class="st1"
+         d="m 58.658589,177.80733 c 3.259521,0.0517 6.389778,0.96068 9.11529,3.06994 1.781125,1.37854 3.130424,3.09686 3.840377,5.25132 1.073992,3.25952 0.536001,6.29158 -1.417087,9.0872 -0.642165,0.91913 -1.420742,1.71698 -2.304988,2.40451 -0.25903,0.20137 -0.316514,0.38729 -0.231117,0.70879 0.325657,1.2237 0.240254,2.42944 -0.270653,3.59431 -0.278804,0.63569 -0.67507,1.18398 -1.249942,1.58906 -0.938081,0.6611 -2.068564,0.66144 -3.003154,-0.003 -0.658952,-0.46871 -1.071834,-1.11968 -1.364918,-1.85888 -0.04967,-0.12527 -0.053,-0.34908 -0.174958,-0.34825 -0.170298,10e-4 -0.144382,0.23278 -0.196384,0.3632 -0.264179,0.66227 -0.65164,1.22785 -1.23499,1.64837 -1.095261,0.78955 -2.538101,0.70763 -3.541145,-0.19755 -0.46472,-0.41936 -0.799508,-0.92413 -1.012514,-1.51146 -0.03303,-0.0914 -0.06229,-0.18476 -0.10384,-0.27232 -0.0309,-0.0653 -0.08856,-0.0713 -0.12079,-0.003 -0.053,0.11298 -0.09454,0.23128 -0.138573,0.34825 -0.219481,0.58169 -0.540648,1.09692 -0.989417,1.53073 -1.107055,1.06984 -2.635298,1.06702 -3.738195,-0.0136 -0.803828,-0.78772 -1.18631,-1.77415 -1.293309,-2.87173 -0.06928,-0.70979 -0.04754,-1.42307 0.176289,-2.10943 0.07925,-0.24341 0.01112,-0.37916 -0.180107,-0.52686 -1.169198,-0.90369 -2.143331,-1.98549 -2.900972,-3.25636 -1.010021,-1.69389 -1.51196,-3.52901 -1.430212,-5.50037 0.09936,-2.39771 0.990416,-4.49451 2.54391,-6.30985 1.823325,-2.13071 4.14427,-3.47136 6.820599,-4.22967 1.387679,-0.39377 2.808258,-0.56425 4.4008,-0.58335 z m -0.151862,17.73544 c 1.06635,0.004 2.11143,-0.14007 3.130588,-0.45425 1.465776,-0.45176 2.761408,-1.18232 3.787876,-2.3442 1.741915,-1.97152 1.801063,-4.55514 0.150366,-6.60393 -0.530349,-0.65829 -1.174177,-1.18714 -1.898756,-1.6178 -1.317231,-0.7829 -2.747279,-1.19495 -4.271366,-1.31873 -1.93332,-0.15717 -3.777411,0.15502 -5.513003,1.02614 -1.271381,0.63818 -2.334735,1.5211 -3.018772,2.7948 -0.785052,1.46161 -0.826762,2.95363 -0.104839,4.4523 0.582187,1.20857 1.519603,2.08484 2.662213,2.75176 1.566618,0.91449 3.272313,1.3066 5.075693,1.31391 z"
+         id="path6-7"
+         style="fill:#fefefe;stroke-width:0.166149" />
+    </g>
+    <g
+       id="g135792"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_psiquico.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#ff6675;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4-0-6"
+         width="114.99343"
+         height="44.245892"
+         x="80.647781"
+         y="218.34471"
+         ry="22.122946" />
+      <rect
+         style="fill:#ff6675;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5-7-1"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="218.34471"
+         ry="22.122946" />
+      <rect
+         style="fill:#ff6675;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="218.34142"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="133.617"
+         y="247.48534"
+         id="text8993-6-7-9-0-0-6-0-2"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8-4-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="133.617"
+           y="247.48534">PSÍQUICO</tspan></text>
+      <path
+         class="st1"
+         d="m 69.712396,250.40458 c -0.129333,0.19142 -0.330715,0.29958 -0.511816,0.42696 -1.876662,1.31965 -3.961287,2.12109 -6.217942,2.50322 -1.214875,0.20583 -2.437045,0.27237 -3.663483,0.21205 -2.831982,-0.13894 -5.48553,-0.86121 -7.847501,-2.48738 -2.651414,-1.82543 -4.308191,-4.32438 -5.029395,-7.45417 -0.298338,-1.2944 -0.395649,-2.60748 -0.309901,-3.92838 0.148902,-2.29775 0.732056,-4.47719 1.980554,-6.43124 1.61515,-2.52777 3.87981,-4.23507 6.732961,-5.16157 1.632939,-0.53015 3.307684,-0.78241 5.022813,-0.70235 2.62633,0.12257 5.012673,0.93308 7.090539,2.57171 1.632049,1.28729 2.732713,2.95384 3.382046,4.91323 0.957811,2.89069 0.779377,5.70648 -0.619802,8.43333 -0.461115,0.89874 -1.132864,1.61496 -1.865987,2.28297 -1.344208,1.22467 -2.888909,2.08552 -4.689608,2.40094 -2.643585,0.46307 -5.034732,-0.0993 -7.056915,-1.9247 -1.283011,-1.15794 -2.008485,-2.6201 -2.236018,-4.3338 -0.14481,-1.08982 -0.08041,-2.16717 0.285884,-3.20006 0.755895,-2.13141 2.302019,-3.3961 4.486446,-3.86024 1.357373,-0.28838 2.681301,-0.13325 3.884435,0.6214 1.279097,0.80215 1.982689,1.99799 2.18336,3.46371 0.246924,1.80408 -1.076648,3.58147 -2.889087,3.98138 -0.535833,0.11813 -1.069354,0.1288 -1.605721,-1.7e-4 -1.033595,-0.24853 -1.872569,-1.14675 -2.036237,-2.18888 -0.06262,-0.39903 0.0038,-0.78987 0.100691,-1.17342 0.06173,-0.24426 0.232515,-0.33962 0.439234,-0.28998 0.198002,0.0477 0.318796,0.22042 0.28286,0.4524 -0.02864,0.18431 -0.04643,0.36665 -0.02402,0.55042 0.12364,1.00958 0.988587,1.61622 2.032146,1.42764 0.02597,-0.005 0.05124,-0.0124 0.07703,-0.0178 1.817243,-0.38089 1.995142,-2.2579 1.360041,-3.32921 -0.451331,-0.76123 -1.144783,-1.18624 -1.997099,-1.35916 -1.728649,-0.35063 -3.165187,0.73135 -3.702799,1.99497 -0.674951,1.58633 -0.40401,3.054 0.71142,4.34661 1.526555,1.76886 4.135628,2.19493 6.200685,1.03111 1.756757,-0.99001 2.823798,-2.4881 3.083887,-4.48698 0.2592,-1.99176 -0.256531,-3.76293 -1.617284,-5.30301 -1.223414,-1.38459 -2.741964,-2.17215 -4.523449,-2.45661 -4.409416,-0.70412 -8.111859,1.56231 -9.699612,5.44586 -0.655737,1.60394 -0.854985,3.27869 -0.667834,5.00253 0.285706,2.63184 1.361286,4.8837 3.265166,6.72051 1.675279,1.6164 3.671667,2.64056 5.96568,3.05507 3.451961,0.62389 6.708055,0.007 9.802971,-1.589 0.138051,-0.0712 0.263292,-0.18217 0.435677,-0.16509 z"
+         id="path6-3"
+         style="fill:#fefefe;stroke-width:0.177899" />
+    </g>
+    <g
+       id="g135800"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_sombrio.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#5b5466;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4-0-6-8"
+         width="114.99343"
+         height="44.245892"
+         x="80.647789"
+         y="267.9046"
+         ry="22.122946" />
+      <rect
+         style="fill:#5b5466;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5-7-1-9"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="267.9046"
+         ry="22.122946" />
+      <rect
+         style="fill:#5b5466;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="267.90131"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="133.99321"
+         y="296.26871"
+         id="text8993-6-7-9-0-0-6-0-2-5"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8-4-2-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="133.99321"
+           y="296.26871">SOMBRIO</tspan></text>
+      <path
+         class="st1"
+         d="m 55.122088,300.57324 c 0.599456,0.0799 1.213815,0.12159 1.83918,0.12159 6.658373,0 12.055854,-4.70659 12.055854,-10.512 0,-5.80576 -5.397651,-10.512 -12.055854,-10.512 -0.446714,0 -0.888009,0.0213 -1.321684,0.0625 3.30277,2.18175 5.486723,5.96138 5.486723,10.25833 -3.38e-4,4.51761 -2.413745,8.46301 -6.004219,10.5816 z m 3.399461,2.5548 c 7.235307,0 13.1005,-5.86519 13.1005,-13.1005 0,-7.23531 -5.865193,-13.1005 -13.1005,-13.1005 -7.235307,0 -13.1005,5.86519 -13.1005,13.1005 0,7.23531 5.865193,13.1005 13.1005,13.1005 z"
+         id="path6-80"
+         style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.169338" />
+    </g>
+    <g
+       id="g135810"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_lutador.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#e0306a;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4-0-6-8-6"
+         width="114.99343"
+         height="44.245892"
+         x="80.647789"
+         y="317.46445"
+         ry="22.122946" />
+      <rect
+         style="fill:#e0306a;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5-7-1-9-5"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="317.46445"
+         ry="22.122946" />
+      <rect
+         style="fill:#e0306a;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="317.46115"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="133.48196"
+         y="345.82855"
+         id="text8993-6-7-9-0-0-6-0-2-5-5"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8-4-2-2-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="133.48196"
+           y="345.82855">LUTADOR</tspan></text>
+      <g
+         id="g10"
+         transform="matrix(0.16520038,0,0,0.16520038,38.110825,318.34273)">
+        <path
+           class="st1"
+           d="m 139.536,184.222 c -19.152,0 -38.304,-0.046 -57.456,0.038 -3.814,0.017 -5.556,-1.013 -5.55,-5.472 0.046,-33.436 -0.026,-66.872 -0.061,-100.309 0,-0.479 -0.014,-0.959 0.012,-1.436 0.134,-2.483 1.426,-3.808 3.906,-3.895 1.833,-0.064 3.67,-0.019 5.506,-0.02 3.032,-0.001 6.071,0.127 9.096,-0.029 4.797,-0.248 5.731,1.749 5.68,5.556 -0.121,9.016 -0.039,18.034 -0.039,27.052 0,1.915 -0.027,3.831 0.012,5.745 0.066,3.224 1.174,4.325 4.326,4.368 0.638,0.009 1.278,0.024 1.915,-0.011 2.269,-0.124 3.499,-1.318 3.558,-3.633 0.071,-2.791 0.024,-5.586 0.025,-8.379 0.001,-8.219 0,-16.439 0.001,-24.658 0,-0.638 -0.013,-1.277 0.009,-1.915 0.099,-2.74 1.398,-4.031 4.199,-4.085 2.313,-0.045 4.628,-0.012 6.942,-0.012 2.873,0 5.746,-0.023 8.618,0.009 3.082,0.034 4.344,1.271 4.352,4.385 0.028,10.853 0.011,21.706 0.018,32.558 0.001,0.877 -0.035,1.765 0.09,2.628 0.27,1.876 1.474,2.962 3.387,3.087 1.033,0.067 2.077,0.069 3.11,0.002 2.019,-0.129 3.209,-1.277 3.435,-3.297 0.088,-0.79 0.061,-1.594 0.062,-2.391 0.003,-10.374 0.002,-20.748 0.003,-31.122 0,-0.638 -0.011,-1.277 0.006,-1.915 0.08,-2.999 1.392,-4.338 4.447,-4.364 5.027,-0.043 10.055,-0.047 15.082,0.002 3.028,0.03 4.345,1.38 4.352,4.437 0.025,10.933 0.009,21.865 0.014,32.798 0,0.877 -0.038,1.764 0.075,2.629 0.266,2.034 1.454,3.119 3.502,3.228 1.034,0.055 2.078,0.062 3.111,-0.008 1.896,-0.129 3.083,-1.236 3.338,-3.131 0.116,-0.864 0.083,-1.752 0.083,-2.629 0.005,-10.214 0.003,-20.429 0.004,-30.643 0,-0.718 -0.014,-1.437 0.01,-2.154 0.094,-2.82 1.305,-4.071 4.14,-4.093 5.266,-0.041 10.534,-0.044 15.8,0.002 2.78,0.024 4.063,1.349 4.184,4.119 0.021,0.478 0.008,0.957 0.008,1.436 -0.031,33.197 -0.063,66.394 -0.097,99.591 -0.001,0.798 0.033,1.602 -0.051,2.392 -0.227,2.139 -1.423,3.316 -3.552,3.506 -0.792,0.071 -1.595,0.031 -2.393,0.031 -19.075,0.002 -38.147,0.002 -57.219,0.002 z"
+           id="path6-84" />
+        <path
+           class="st1"
+           d="m 68.526,145.065 c 0,11.082 0.001,22.164 -0.003,33.246 0,0.876 0.023,1.76 -0.075,2.628 -0.23,2.031 -1.329,3.134 -3.367,3.435 -0.549,0.081 -1.116,0.036 -1.669,0.097 -2.966,0.325 -4.786,-0.8 -6.159,-3.633 -3.755,-7.743 -7.837,-15.329 -11.835,-22.954 -0.722,-1.378 -1.142,-2.756 -1.134,-4.324 0.028,-5.66 0.014,-11.321 -0.033,-16.982 -0.013,-1.559 0.335,-2.97 1.054,-4.352 4.191,-8.063 8.38,-16.127 12.487,-24.232 0.871,-1.719 2.053,-2.54 3.95,-2.443 1.113,0.057 2.239,-0.044 3.344,0.068 2.095,0.212 3.298,1.468 3.504,3.571 0.07,0.711 0.037,1.434 0.037,2.151 0.002,11.242 0.001,22.483 0.001,33.725 -0.034,-0.001 -0.068,-0.001 -0.102,-0.001 z"
+           id="path8" />
+      </g>
+    </g>
+    <g
+       id="g135821"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_inseto.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#83c300;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4-0-6-8-6-7"
+         width="114.99343"
+         height="44.245892"
+         x="80.647774"
+         y="367.02435"
+         ry="22.122946" />
+      <rect
+         style="fill:#83c300;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5-7-1-9-5-4"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="367.02435"
+         ry="22.122946" />
+      <rect
+         style="fill:#83c300;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="367.02106"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="133.617"
+         y="395.38846"
+         id="text8993-6-7-9-0-0-6-0-2-5-5-1"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8-4-2-2-5-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="133.617"
+           y="395.38846">INSETO</tspan></text>
+      <g
+         id="g12"
+         transform="matrix(0.16736054,0,0,0.16736054,37.166345,368.46152)">
+        <path
+           class="st1"
+           d="m 132.648,141.782 c -0.413,-10.695 2.545,-21.791 6.292,-32.75 0.397,-1.161 1.129,-1.621 2.191,-1.826 2.351,-0.455 4.634,-1.156 6.89,-1.947 9.716,-3.409 17.863,-9.167 24.866,-16.634 0.35,-0.374 0.691,-0.756 1.039,-1.132 1.533,-1.658 1.554,-1.679 3.125,-0.117 8.585,8.54 14.684,18.59 18.053,30.226 9.477,32.739 -5.663,67.258 -36.138,82.515 -0.838,0.42 -1.699,0.797 -2.56,1.171 -1.95,0.846 -1.93,0.821 -3.391,-0.859 -11.1,-12.757 -17.323,-27.633 -19.428,-44.344 -0.556,-4.413 -0.933,-8.824 -0.939,-14.303 z"
+           id="path6-4" />
+        <path
+           class="st1"
+           d="m 122.704,141.267 c -0.379,14.433 -2.405,27.001 -7.548,38.937 -3.239,7.517 -7.867,14.151 -13.105,20.384 -1.32,1.571 -1.373,1.571 -3.22,0.723 -16.003,-7.345 -27.766,-18.99 -35.185,-34.951 -4.916,-10.577 -6.969,-21.765 -6.199,-33.381 1.17,-17.657 8.077,-32.797 20.528,-45.391 0.12,-0.121 0.241,-0.242 0.366,-0.359 1.441,-1.358 1.479,-1.391 2.78,0.063 3.888,4.348 8.202,8.205 13.056,11.448 5.88,3.928 12.253,6.762 19.157,8.268 1.843,0.402 2.732,1.236 3.291,2.981 2.321,7.238 4.608,14.482 5.401,22.083 0.372,3.561 0.532,7.144 0.678,9.195 z"
+           id="path8-5" />
+        <path
+           class="st1"
+           d="m 127.668,95.452 c -14.599,0.01 -26.36,-5.701 -35.975,-16.144 -1.369,-1.486 -1.354,-1.566 0.368,-2.597 3.67,-2.195 7.535,-3.984 11.552,-5.445 0.801,-0.291 1.621,-0.534 2.413,-0.848 1.246,-0.494 1.285,-0.649 0.517,-1.84 -0.277,-0.429 -0.605,-0.825 -0.91,-1.236 -3.252,-4.385 -6.507,-8.767 -9.751,-13.158 -0.506,-0.685 -1.046,-1.365 -1.418,-2.123 -1.052,-2.141 -0.391,-4.587 1.512,-5.899 1.863,-1.284 4.146,-1.094 5.835,0.568 0.664,0.653 1.216,1.426 1.775,2.178 4.225,5.681 8.485,11.337 12.624,17.08 0.988,1.371 2.006,1.805 3.647,1.576 5.176,-0.724 10.379,-0.736 15.554,0.005 1.669,0.239 2.658,-0.274 3.632,-1.62 4.251,-5.873 8.609,-11.668 12.936,-17.486 0.457,-0.614 0.907,-1.251 1.457,-1.777 1.754,-1.677 4.198,-1.793 6.059,-0.345 1.776,1.382 2.301,3.666 1.255,5.742 -0.342,0.679 -0.815,1.298 -1.27,1.914 -3.245,4.39 -6.501,8.772 -9.753,13.157 -0.305,0.411 -0.621,0.815 -0.91,1.237 -1.014,1.483 -1.006,1.519 0.577,2.108 0.719,0.268 1.454,0.491 2.176,0.751 4.021,1.452 7.879,3.256 11.558,5.434 1.8,1.065 1.815,1.117 0.488,2.559 -9.746,10.589 -21.665,16.332 -35.948,16.209 z"
+           id="path10" />
+      </g>
+    </g>
+    <g
+       id="g135831"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_dragao.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#006fc9;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4-0-6-8-6-7-4"
+         width="114.99343"
+         height="44.245892"
+         x="80.647781"
+         y="416.58429"
+         ry="22.122946" />
+      <rect
+         style="fill:#006fc9;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5-7-1-9-5-4-3"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="416.58429"
+         ry="22.122946" />
+      <rect
+         style="fill:#006fc9;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="416.58099"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="133.617"
+         y="446.61237"
+         id="text8993-6-7-9-0-0-6-0-2-5-5-1-7"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8-4-2-2-5-1-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="133.617"
+           y="446.61237">DRAGÃO</tspan></text>
+      <g
+         id="g10-0"
+         transform="matrix(0.14393107,0,0,0.14393107,40.155724,421.34909)">
+        <path
+           class="st1"
+           d="m 126.685,179.553 c 14.923,0.159 26.121,-6.269 32.82,-19.643 8.319,-16.609 1.766,-36.906 -14.503,-46.024 -0.381,-0.213 -0.751,-0.467 -1.159,-0.608 -1.476,-0.509 -1.939,-1.439 -1.704,-3.017 0.257,-1.718 0.252,-3.485 0.244,-5.229 -0.023,-4.759 -1.941,-8.807 -4.825,-12.469 -0.154,-0.195 -0.365,-0.346 -0.549,-0.517 -0.188,0.262 -0.028,0.496 0.086,0.711 2.378,4.497 2.613,9.355 2.469,14.292 -0.061,2.066 -0.694,3.935 -1.6,5.754 -1.207,2.426 -2.975,3.778 -5.803,4.266 -16.193,2.79 -32.127,6.764 -48.056,10.763 -11.096,2.786 -22.247,5.358 -33.373,8.024 -0.425,0.102 -0.849,0.223 -1.281,0.271 -0.228,0.025 -0.615,-0.024 -0.674,-0.156 -0.085,-0.187 0.017,-0.505 0.126,-0.724 0.192,-0.39 0.445,-0.751 0.68,-1.119 8.678,-13.554 16.458,-27.623 23.95,-41.855 0.923,-1.754 2.134,-3.086 3.756,-4.233 12.85,-9.081 25.546,-18.365 37.481,-28.65 9.836,-8.476 18.711,-17.85 26.683,-28.09 0.376,-0.483 0.749,-0.967 1.139,-1.438 0.103,-0.124 0.275,-0.295 0.395,-0.28 0.361,0.045 0.275,0.349 0.232,0.585 -0.125,0.687 -0.267,1.371 -0.398,2.057 -1.993,10.4 -5.924,20.076 -10.896,29.375 -1.864,3.486 -1.803,3.485 2.189,3.589 32.048,0.834 59.999,22.141 69.198,52.89 9.836,32.881 -3.971,67.726 -33.37,85.147 -4.45,2.637 -9.129,4.759 -14.01,6.469 -1.43,0.501 -2.641,0.385 -4.007,-0.22 -5.994,-2.657 -11.121,-6.574 -15.954,-10.897 -5.43,-4.856 -10.229,-10.28 -14.16,-16.44 -0.329,-0.515 -0.646,-1.038 -0.956,-1.565 -0.4,-0.68 -0.488,-1.092 0.594,-1.041 1.739,0.083 3.489,0.022 5.236,0.022 z M 102.002,94.17 c -0.146,-1.387 -0.283,-2.775 -0.443,-4.16 -0.04,-0.344 -0.147,-0.681 -0.23,-1.019 -0.161,-0.654 -0.544,-0.849 -1.14,-0.511 -0.378,0.215 -0.746,0.452 -1.102,0.702 -8.231,5.761 -15.007,12.984 -21.01,20.973 -0.921,1.225 -0.731,1.55 0.92,1.591 6.903,0.169 13.057,-1.863 18.308,-6.406 3.394,-2.937 4.871,-6.709 4.697,-11.17 z"
+           id="path6-5" />
+        <path
+           class="st1"
+           d="m 123.195,211.207 c -6.948,-0.777 -13.843,-1.838 -20.563,-3.838 -10.778,-3.207 -19.883,-9.221 -28.17,-16.66 -11.739,-10.538 -19.128,-23.671 -23.343,-38.728 -0.468,-1.67 -0.451,-1.71 1.336,-1.881 11.228,-1.078 22.339,-2.822 33.26,-5.698 6.426,-1.693 12.706,-3.812 18.875,-6.272 0.811,-0.323 1.627,-0.634 2.45,-0.926 0.143,-0.051 0.358,-0.026 0.491,0.05 0.301,0.172 0.18,0.44 0.051,0.659 -0.309,0.527 -0.646,1.038 -0.96,1.561 -0.99,1.646 -2.004,3.279 -2.958,4.946 -4.851,8.47 -6.05,17.516 -4.459,27.08 2.197,13.214 8.391,24.119 18.523,32.824 2.583,2.22 5.202,4.399 7.789,6.614 0.208,0.178 0.681,0.237 0.499,0.665 -0.026,0.061 -0.486,-0.063 -0.746,-0.1 -0.692,-0.1 -1.384,-0.197 -2.075,-0.296 z"
+           id="path8-4" />
+      </g>
+    </g>
+    <g
+       id="g135847"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_voador.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#89aae3;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4-0-6-8-6-7-4-7"
+         width="114.99343"
+         height="44.245892"
+         x="80.647781"
+         y="466.14417"
+         ry="22.122946" />
+      <rect
+         style="fill:#89aae3;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5-7-1-9-5-4-3-3"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="466.14417"
+         ry="22.122946" />
+      <rect
+         style="fill:#89aae3;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="466.14087"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="134.04764"
+         y="494.50827"
+         id="text8993-6-7-9-0-0-6-0-2-5-5-1-7-9"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8-4-2-2-5-1-1-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="134.04764"
+           y="494.50827">VOADOR</tspan></text>
+      <path
+         class="st1"
+         d="m 69.388129,487.72919 c 0.0097,0.16183 -0.08924,0.28347 -0.155986,0.41626 -1.127836,2.24345 -4.016999,4.20008 -6.793559,4.19423 -0.587465,-10e-4 -1.174222,-0.003 -1.760802,-0.0373 -0.05577,-0.003 -0.152443,0.0132 -0.162712,0.0434 -0.03116,0.0923 0.05896,0.12642 0.126239,0.14678 0.648548,0.19635 1.305064,0.35942 1.976099,0.46087 0.977515,0.14784 1.951312,0.1296 2.91962,-0.0689 0.997699,-0.2045 1.849328,-0.70061 2.636686,-1.32773 0.118097,-0.094 0.204147,-0.25443 0.390407,-0.24558 -0.06728,0.13315 -0.130845,0.26824 -0.202374,0.39891 -0.975922,1.78151 -2.540547,2.66926 -4.497702,2.96051 -0.537536,0.08 -1.079321,0.0949 -1.621637,0.10039 -0.120397,10e-4 -0.24097,0.002 -0.361013,0.0104 -0.03966,0.003 -0.102869,0.01 -0.08764,0.0728 0.0089,0.0367 0.04338,0.08 0.07755,0.0952 0.09579,0.0427 0.19653,0.0754 0.297096,0.10623 0.215829,0.0659 0.43396,0.12412 0.648903,0.19228 0.229993,0.0729 0.241501,0.0878 0.137571,0.31853 -0.379604,0.84259 -0.870397,1.61649 -1.473974,2.31639 -1.552409,1.80028 -3.497878,2.93715 -5.839062,3.33693 -5.479289,0.93573 -10.449016,-2.67581 -11.436269,-7.88456 -0.998584,-5.26842 2.270363,-10.267 7.483894,-11.50798 0.764695,-0.18201 1.541962,-0.25708 2.328259,-0.25496 1.535766,0.004 3.072594,0.0338 4.607475,-0.006 2.733713,-0.071 5.427234,-0.43998 8.050289,-1.24292 0.77886,-0.23849 1.529922,-0.54674 2.240792,-0.94901 1.188565,-0.67245 2.138105,-1.60606 2.937855,-2.69936 0.337468,-0.46141 0.649614,-0.94158 0.974862,-1.41219 0.03172,-0.0458 0.06069,-0.11756 0.13403,-0.0901 0.0687,0.0257 0.0526,0.099 0.05066,0.15475 -0.03507,0.97929 -0.12606,1.95467 -0.317633,2.91501 -0.373938,1.87536 -1.039665,3.65298 -2.014346,5.29303 -1.496455,2.51771 -3.680241,4.17759 -6.510448,4.96247 -0.7284,0.20202 -1.483713,0.26416 -2.23389,0.29975 -1.11243,0.0529 -2.228047,0.0678 -3.33127,-0.1443 -0.05878,-0.0113 -0.119334,-0.0154 -0.179179,-0.0193 -0.04196,-0.003 -0.09083,-3.5e-4 -0.09579,0.0526 -0.0021,0.0223 0.02461,0.0561 0.04727,0.0698 0.05099,0.0306 0.10694,0.0535 0.162004,0.0767 1.745044,0.73478 3.549047,1.1466 5.45521,0.98177 1.20556,-0.10428 2.381906,-0.34278 3.506199,-0.80401 0.648018,-0.26593 1.233712,-0.62605 1.714411,-1.14411 0.04959,-0.0533 0.116859,-0.0901 0.175813,-0.13474 z"
+         id="path6-9"
+         style="fill:#fefefe;stroke-width:0.177054" />
+    </g>
+    <g
+       id="g135855"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_planta.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#38bf4b;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4-0-6-8-6-7-4-7-7"
+         width="114.99343"
+         height="44.245892"
+         x="80.647789"
+         y="515.70404"
+         ry="22.122946" />
+      <rect
+         style="fill:#38bf4b;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5-7-1-9-5-4-3-3-1"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="515.70404"
+         ry="22.122946" />
+      <rect
+         style="fill:#38bf4b;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="515.70074"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="133.34863"
+         y="544.06812"
+         id="text8993-6-7-9-0-0-6-0-2-5-5-1-7-9-1"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8-4-2-2-5-1-1-7-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="133.34863"
+           y="544.06812">PLANTA</tspan></text>
+      <path
+         class="st1"
+         d="m 60.86507,543.91351 c -1.065038,0 -2.129911,0 -3.19495,0 -0.09944,0 -0.198884,1.8e-4 -0.298157,-10e-4 -0.124387,-0.002 -0.202424,-0.0354 -0.113768,-0.17613 0.04534,-0.072 0.08983,-0.14461 0.134836,-0.21692 0.885539,-1.42185 1.774788,-2.84167 2.653414,-4.26791 0.144107,-0.23377 0.300681,-0.35968 0.595641,-0.39018 1.750341,-0.18102 3.497821,-0.38917 5.246149,-0.5894 0.09826,-0.0113 0.198878,-0.0232 0.291915,-0.054 0.21439,-0.0708 0.334399,-0.22231 0.330182,-0.3949 -0.0045,-0.17057 -0.128934,-0.32967 -0.336081,-0.39473 -0.134494,-0.0423 -0.276582,-0.0652 -0.416976,-0.0823 -1.225835,-0.149 -2.452173,-0.29462 -3.67834,-0.44126 -0.626486,-0.075 -0.495864,-0.10669 -0.256694,-0.48894 1.174758,-1.87744 2.351377,-3.75385 3.526308,-5.63111 0.08276,-0.13231 0.161976,-0.26698 0.23731,-0.4035 0.06236,-0.11309 0.101637,-0.2358 0.09523,-0.36676 -0.01586,-0.32428 -0.278099,-0.47816 -0.566313,-0.33001 -0.179838,0.0924 -0.312989,0.24237 -0.449675,0.38715 -1.529555,1.62174 -3.059275,3.24316 -4.589499,4.86439 -0.433666,0.45946 -0.379735,0.44749 -0.605248,-0.12219 -0.443779,-1.12167 -0.884694,-2.24453 -1.328811,-3.36602 -0.05208,-0.13164 -0.104498,-0.26546 -0.176805,-0.38631 -0.124386,-0.20832 -0.325967,-0.30743 -0.490467,-0.26192 -0.168883,0.0467 -0.290067,0.23663 -0.290573,0.47344 -1.68e-4,0.0988 0.01668,0.19804 0.03084,0.2963 0.244559,1.69945 0.48676,3.39923 0.738061,5.09766 0.04669,0.31535 -0.01196,0.55368 -0.249785,0.79841 -1.147795,1.18117 -2.272499,2.38458 -3.405294,3.58024 -0.05865,0.0619 -0.114948,0.12607 -0.176467,0.18489 -0.159107,0.15204 -0.180006,0.1517 -0.237144,-0.0617 -0.308269,-1.15133 -0.612663,-2.30368 -0.914528,-3.45669 -0.273043,-1.04314 -0.541031,-2.08761 -0.811378,-3.13142 -0.05006,-0.19332 -0.102813,-0.38428 -0.264111,-0.52249 -0.243886,-0.20916 -0.529402,-0.14158 -0.652103,0.15759 -0.06185,0.15069 -0.04399,0.30659 -0.02899,0.4625 0.105173,1.08779 0.210345,2.17541 0.314338,3.26337 0.126746,1.32797 0.252649,2.65611 0.377879,3.98425 0.0386,0.40974 0.06506,0.82065 0.114105,1.22903 0.02225,0.18541 -0.0182,0.32193 -0.149331,0.45878 -0.815255,0.85099 -1.621577,1.71058 -2.433967,2.56409 -0.209502,0.22012 -0.219951,0.21978 -0.419678,-0.01 -1.177796,-1.35359 -1.990354,-2.90336 -2.392167,-4.64916 -0.781545,-3.39586 -0.262257,-6.57075 1.717311,-9.46822 0.886886,-1.2983 2.049513,-2.29828 3.392316,-3.11573 2.379189,-1.44848 4.955576,-2.37481 7.650786,-3.01511 2.059965,-0.48946 4.137289,-0.87492 6.246974,-1.06183 1.145437,-0.10147 2.295256,-0.14546 3.446082,-0.12726 0.314676,0.005 0.319734,0.007 0.401305,0.31434 0.305408,1.15302 0.559745,2.3175 0.746998,3.49563 0.44496,2.79837 0.599178,5.61611 0.522492,8.44599 -0.04701,1.73366 -0.191635,3.45822 -0.669128,5.13727 -0.434845,1.52887 -1.099253,2.95831 -2.008386,4.2546 -1.476631,2.10513 -3.516536,3.44877 -5.981349,4.11605 -2.770551,0.75002 -5.482111,0.52535 -8.102657,-0.66947 -0.09034,-0.0412 -0.179164,-0.0855 -0.266976,-0.1318 -0.0777,-0.041 -0.08562,-0.10837 -0.04854,-0.17917 0.03944,-0.0752 0.0868,-0.14629 0.131634,-0.2186 0.56193,-0.90408 1.130266,-1.80428 1.681747,-2.71476 0.13787,-0.22771 0.301697,-0.33001 0.568673,-0.37029 1.992208,-0.30019 3.981723,-0.6189 5.972074,-0.9324 0.742947,-0.11697 1.485728,-0.23394 2.228006,-0.35479 0.139387,-0.0227 0.281468,-0.0497 0.412262,-0.10062 0.208994,-0.0816 0.336755,-0.2754 0.321416,-0.45609 -0.01803,-0.21118 -0.158772,-0.32192 -0.337934,-0.39844 -0.162307,-0.0693 -0.333724,-0.0583 -0.503783,-0.0583 -1.093354,-1.7e-4 -2.186708,-1.7e-4 -3.280068,-1.7e-4 -1.65e-4,6.4e-4 -1.65e-4,0.003 -1.65e-4,0.004 z"
+         id="path6-6"
+         style="fill:#fefefe;stroke-width:0.168545" />
+    </g>
+    <g
+       id="g135863"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_normal.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#919aa2;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4-0-6-8-6-7-4-7-7-5"
+         width="114.99343"
+         height="44.245892"
+         x="80.647781"
+         y="565.26392"
+         ry="22.122946" />
+      <rect
+         style="fill:#919aa2;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5-7-1-9-5-4-3-3-1-4"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="565.26392"
+         ry="22.122946" />
+      <rect
+         style="fill:#919aa2;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2-2"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="565.26062"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="133.29868"
+         y="593.62799"
+         id="text8993-6-7-9-0-0-6-0-2-5-5-1-7-9-1-6"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8-4-2-2-5-1-1-7-3-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="133.29868"
+           y="593.62799">NORMAL</tspan></text>
+      <path
+         class="st1"
+         d="m 71.622048,587.38686 c 0,7.23975 -5.860751,13.1005 -13.1005,13.1005 -7.23975,0 -13.100499,-5.86075 -13.100499,-13.1005 0,-7.23975 5.860749,-13.1005 13.100499,-13.1005 7.239749,0 13.1005,5.86075 13.1005,13.1005 z m -4.839257,-0.0586 c 0,4.56846 -3.705545,8.274 -8.273999,8.274 -4.568454,0 -8.24866,-3.73088 -8.24866,-8.274 0,-4.54311 3.705545,-8.274 8.273999,-8.274 4.568455,0 8.24866,3.70555 8.24866,8.274 z"
+         id="path6-0"
+         style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.172375" />
+    </g>
+    <g
+       id="g135871"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_pedra.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#c8b686;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4-0-6-8-6-7-4-7-7-5-6"
+         width="114.99343"
+         height="44.245892"
+         x="80.647774"
+         y="614.82385"
+         ry="22.122946" />
+      <rect
+         style="fill:#c8b686;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5-7-1-9-5-4-3-3-1-4-8"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="614.82385"
+         ry="22.122946" />
+      <rect
+         style="fill:#c8b686;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2-2-0"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="614.82056"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="125.41121"
+         y="643.18793"
+         id="text8993-6-7-9-0-0-6-0-2-5-5-1-7-9-1-6-3"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8-4-2-2-5-1-1-7-3-7-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="125.41121"
+           y="643.18793">PEDRA</tspan></text>
+      <path
+         class="st1"
+         d="m 65.651305,636.39519 c -0.0015,-0.002 -0.0022,-0.005 -0.0017,-0.007 l 1.66805,-9.72683 c 7.62e-4,-0.005 0.0046,-0.008 0.0091,-0.008 h 0.527911 c 0.004,0 0.0076,0.003 0.0088,0.006 l 3.758149,11.89906 c 0.0012,0.003 -1.53e-4,0.008 -0.0029,0.0102 l -2.770988,2.1634 c -0.0042,0.003 -0.01007,0.002 -0.01318,-0.002 z m -20.230182,6.44823 c 0,0.004 0.0027,0.008 0.0064,0.009 l 5.71201,1.86768 c 0.0028,7.9e-4 0.0059,4.7e-4 0.0082,-7.8e-4 l 12.767511,-8.81438 c 0.0022,-0.002 0.0035,-0.003 0.0038,-0.006 l 1.369221,-9.18683 c 9.42e-4,-0.005 -0.0035,-0.0107 -0.0091,-0.0107 h -11.30886 c -0.0028,0 -0.0054,7.9e-4 -0.0072,0.003 l -8.539862,10.30184 c -0.0014,0.002 -0.0022,0.003 -0.0022,0.006 z m 8.098613,2.35235 6.240231,2.04407 c 0.0028,7.8e-4 0.0059,4.7e-4 0.0084,-7.9e-4 l 7.429346,-5.32917 c 0.0042,-0.003 0.0051,-0.009 0.0024,-0.0127 l -2.785094,-4.1444 c -0.0029,-0.004 -0.0087,-0.005 -0.01302,-0.002 z"
+         id="path6-07"
+         style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.154994" />
+    </g>
+    <g
+       id="g135879"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_fada.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#fb89eb;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4-0-6-8-6-7-4-7-7-5-6-3"
+         width="114.99343"
+         height="44.245892"
+         x="80.647774"
+         y="664.38373"
+         ry="22.122946" />
+      <rect
+         style="fill:#fb89eb;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5-7-1-9-5-4-3-3-1-4-8-4"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="664.38373"
+         ry="22.122946" />
+      <rect
+         style="fill:#fb89eb;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2-2-0-9"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="664.38043"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="125.41121"
+         y="692.7478"
+         id="text8993-6-7-9-0-0-6-0-2-5-5-1-7-9-1-6-3-2"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8-4-2-2-5-1-1-7-3-7-6-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="125.41121"
+           y="692.7478">FADA</tspan></text>
+      <path
+         class="st1"
+         d="m 50.678025,694.18232 4.202633,-1.21857 3.629836,6.637 c 0.005,0.009 0.01713,0.009 0.02178,0 l 3.629829,-6.637 4.20264,1.21857 c 0.009,0.003 0.0181,-0.006 0.0154,-0.0155 l -1.21872,-4.11943 6.45392,-3.52981 c 0.009,-0.004 0.009,-0.0171 0,-0.0218 l -6.50715,-3.55891 1.27195,-4.2993 c 0.003,-0.009 -0.006,-0.0181 -0.0154,-0.0155 l -4.3012,1.24723 -3.531269,-6.45669 c -0.0044,-0.009 -0.01713,-0.009 -0.02178,0 l -3.531273,6.45669 -4.301196,-1.24723 c -0.0093,-0.003 -0.01813,0.006 -0.01537,0.0155 l 1.271945,4.2993 -6.507143,3.55891 c -0.0086,0.004 -0.0086,0.0171 0,0.0218 l 6.453913,3.52981 -1.218715,4.11943 c -0.0028,0.01 0.006,0.0183 0.01537,0.0155 z m 3.261175,-7.63022 2.977336,1.62832 1.628319,2.97734 c 0.0044,0.009 0.01713,0.009 0.02178,0 l 1.628319,-2.97734 2.977329,-1.62832 c 0.009,-0.004 0.009,-0.0171 0,-0.0218 l -2.977329,-1.62832 -1.628319,-2.97734 c -0.0044,-0.009 -0.01713,-0.009 -0.02178,0 l -1.628319,2.97734 -2.977336,1.62832 c -0.0085,0.004 -0.0085,0.017 0,0.0218 z"
+         id="path6-54"
+         style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.146234" />
+    </g>
+    <g
+       id="g135887"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_fogo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#ff9741;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4-0-6-8-6-7-4-7-7-5-6-3-5"
+         width="114.99343"
+         height="44.245892"
+         x="80.647766"
+         y="714.92255"
+         ry="22.122946" />
+      <rect
+         style="fill:#ff9741;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5-7-1-9-5-4-3-3-1-4-8-4-0"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="714.92255"
+         ry="22.122946" />
+      <rect
+         style="fill:#ff9741;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2-2-0-9-7"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="714.91925"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="125.67957"
+         y="743.28662"
+         id="text8993-6-7-9-0-0-6-0-2-5-5-1-7-9-1-6-3-2-7"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8-4-2-2-5-1-1-7-3-7-6-4-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="125.67957"
+           y="743.28662">FOGO</tspan></text>
+      <path
+         class="st1"
+         d="m 66.586601,746.13965 c -0.004,0.13051 -0.0919,0.21932 -0.158991,0.31827 -1.08148,1.59441 -2.54157,2.66562 -4.40404,3.1759 -1.26014,0.34528 -2.54084,0.58588 -3.85104,0.49164 -3.30906,-0.23812 -6.050429,-1.5514 -7.95165,-4.35604 -0.93072,-1.37289 -1.38889,-2.92003 -1.510739,-4.56861 -0.165731,-2.24034 0.308869,-4.37043 1.119509,-6.4415 0.0831,-0.21213 0.17029,-0.42279 0.26101,-0.63169 0.0238,-0.0548 0.0341,-0.14944 0.12361,-0.12434 0.0524,0.0147 0.0402,0.0892 0.0405,0.14019 10e-4,0.13404 -0.002,0.26821 -9.99e-4,0.40224 0.006,1.60205 0.147539,3.18633 0.62847,4.7251 0.160159,0.51234 0.350259,1.01352 0.580449,1.49884 0.0269,0.0568 0.0527,0.13785 0.13447,0.11157 0.0229,-0.007 0.0325,-0.0979 0.0263,-0.14768 -0.081,-0.66633 -0.109369,-1.33633 -0.12435,-2.00619 -0.0584,-2.60749 0.605421,-4.9635 2.447921,-6.89409 0.50867,-0.53289 1.040239,-1.04361 1.642269,-1.47683 0.47916,-0.34483 0.92999,-0.72505 1.33663,-1.15635 0.77055,-0.81724 1.151511,-1.79303 1.20245,-2.90711 0.0314,-0.68791 -0.0583,-1.36422 -0.1882,-2.03702 -0.0153,-0.0788 -0.0311,-0.15766 -0.0417,-0.23723 -0.003,-0.0242 0.008,-0.0713 0.017,-0.0724 0.035,-0.004 0.0733,10e-4 0.10673,0.0126 0.0235,0.008 0.0417,0.0327 0.0614,0.0509 1.00617,0.93748 1.91605,1.95217 2.55038,3.18706 0.56504,1.10013 0.80492,2.26662 0.71096,3.50107 -0.03,0.39372 -0.0261,0.39842 -0.41765,0.51571 -1.15988,0.34748 -1.97507,1.48417 -1.92104,2.7584 0.0502,1.1844 0.84895,2.22654 1.99679,2.53791 1.44732,0.39269 2.92341,-0.49369 3.31669,-1.98799 0.16544,-0.62816 0.10511,-1.24913 -0.0432,-1.86878 -0.0843,-0.35247 -0.19877,-0.69555 -0.32458,-1.03525 -0.026,-0.07 -0.10173,-0.16221 -0.0214,-0.21741 0.0668,-0.0459 0.14695,0.0354 0.21403,0.0753 1.56476,0.9294 2.80743,2.16914 3.50269,3.86734 1.21405,2.96509 0.898131,5.78911 -1.01235,8.36768 -1.243699,1.67854 -2.968469,2.50165 -5.0739,2.47434 -0.25381,-0.003 -0.507339,-0.0412 -0.760719,-0.0662 -0.065,-0.006 -0.14812,-0.003 -0.17557,-0.0735 -0.0301,-0.0782 0.0503,-0.1104 0.0988,-0.15032 0.0828,-0.0683 0.1722,-0.12875 0.25103,-0.20112 1.12348,-1.03128 1.54979,-2.3086 1.21214,-3.78602 -0.33162,-1.45098 -1.24898,-2.41121 -2.69777,-2.80552 -1.88331,-0.51263 -3.86822,0.65944 -4.413,2.59619 -0.39019,1.38698 -0.0699,2.6389 0.84029,3.72361 1.11335,1.32694 2.56507,2.03232 4.28778,2.19234 1.66811,0.15502 3.25342,-0.19348 4.79557,-0.78744 0.53685,-0.2067 1.05535,-0.46111 1.58223,-0.69379 z"
+         id="path6-76"
+         style="fill:#fefefe;stroke-width:0.146801" />
+    </g>
+    <g
+       id="g135902"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_gelo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#4cd1c0;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4-0-6-8-6-7-4-7-7-5-6-3-5-2"
+         width="114.99343"
+         height="44.245892"
+         x="80.647758"
+         y="764.37018"
+         ry="22.122946" />
+      <rect
+         style="fill:#4cd1c0;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5-7-1-9-5-4-3-3-1-4-8-4-0-0"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="764.37018"
+         ry="22.122946" />
+      <rect
+         style="fill:#4cd1c0;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2-2-0-9-7-1"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="764.36688"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="126.00755"
+         y="792.73425"
+         id="text8993-6-7-9-0-0-6-0-2-5-5-1-7-9-1-6-3-2-7-4"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8-4-2-2-5-1-1-7-3-7-6-4-0-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="126.00755"
+           y="792.73425">GELO</tspan></text>
+      <g
+         id="g20"
+         transform="matrix(0.17357863,0,0,0.17357863,36.372916,764.3445)">
+        <polygon
+           class="st1"
+           points="80.008,106.491 123.443,127.624 80.008,148.709 36.572,127.629 "
+           id="polygon6-2" />
+        <g
+           id="g12-5">
+          <polygon
+             class="st1"
+             points="175.192,106.491 131.757,127.624 175.192,148.709 218.628,127.629 "
+             id="polygon8" />
+          <polygon
+             class="st1"
+             points="175.192,98.141 175.192,52.127 131.757,74.989 131.757,119.755 132.087,119.591 132.704,119.284 175.18,98.148 175.179,98.147 "
+             id="polygon10" />
+        </g>
+        <polygon
+           class="st1"
+           points="175.192,157.059 175.192,203.073 131.757,180.211 131.757,135.445 132.087,135.609 132.704,135.916 175.18,157.052 175.179,157.053 "
+           id="polygon14" />
+        <polygon
+           class="st1"
+           points="80.008,98.141 80.008,52.127 123.443,74.989 123.443,119.755 123.113,119.591 122.496,119.284 80.02,98.148 80.021,98.147 "
+           id="polygon16" />
+        <polygon
+           class="st1"
+           points="80.008,157.059 80.008,203.073 123.443,180.211 123.443,135.445 123.113,135.609 122.496,135.916 80.02,157.052 80.021,157.053 "
+           id="polygon18" />
+      </g>
+    </g>
+    <g
+       id="g135910"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_agua.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#3692dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4-0-6-8-6-7-4-7-7-5-6-3-5-2-3"
+         width="114.99343"
+         height="44.245892"
+         x="80.647766"
+         y="814.48877"
+         ry="22.122946" />
+      <rect
+         style="fill:#3692dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5-7-1-9-5-4-3-3-1-4-8-4-0-0-4"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="814.48877"
+         ry="22.122946" />
+      <rect
+         style="fill:#3692dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2-2-0-9-7-1-7"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="814.48547"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="125.9692"
+         y="844.64709"
+         id="text8993-6-7-9-0-0-6-0-2-5-5-1-7-9-1-6-3-2-7-4-5"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8-4-2-2-5-1-1-7-3-7-6-4-0-2-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="125.9692"
+           y="844.64709">ÁGUA</tspan></text>
+      <path
+         class="st1"
+         d="m 58.601652,849.71217 c -4.40232,-0.0506 -7.79644,-3.02427 -8.64109,-6.89727 -0.3819,-1.75119 -0.2158,-3.46264 0.42375,-5.1411 0.97913,-2.5695 2.26983,-4.97742 3.73009,-7.29829 1.27699,-2.02949 2.57672,-4.04467 3.86531,-6.06693 0.14834,-0.23281 0.29034,-0.46983 0.43385,-0.70581 0.0745,-0.12258 0.14637,-0.12137 0.22016,-5.7e-4 0.0196,0.0321 0.0396,0.0642 0.059,0.0962 1.3794,2.27675 2.88212,4.47535 4.28155,6.73931 1.26901,2.05283 2.44722,4.15309 3.3506,6.39731 0.35645,0.88531 0.7165,1.76852 0.85414,2.72325 0.37978,2.63214 -0.25314,4.99172 -1.96202,7.02784 -1.58781,1.89169 -3.64696,2.90335 -6.11,3.09113 -0.20013,0.0152 -0.40041,0.0277 -0.50537,0.0349 z m -0.56245,-2.763 c 0.90142,0.005 1.75331,-0.18854 2.52869,-0.64106 1.51688,-0.88531 2.38818,-2.18384 2.46107,-3.96892 0.006,-0.13237 0.0577,-0.35825 -0.0458,-0.38069 -0.16625,-0.036 -0.17755,0.19517 -0.24606,0.31338 -0.87372,1.50905 -2.17948,2.34843 -3.91772,2.41725 -2.70368,0.10692 -4.83767,-2.10207 -4.77744,-4.68301 0.002,-0.10045 0.008,-0.20088 0.006,-0.30103 -5.7e-4,-0.0333 -0.0109,-0.0816 -0.0337,-0.0961 -0.0569,-0.036 -0.0888,0.0184 -0.11821,0.056 -0.0385,0.0494 -0.075,0.10089 -0.10722,0.15465 -0.91423,1.52758 -0.99976,3.09641 -0.11143,4.64612 0.95548,1.66717 2.46905,2.42885 4.3624,2.48336 z"
+         id="path6-51"
+         style="fill:#fefefe;stroke-width:0.150589" />
+    </g>
+    <g
+       id="g135918"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\tags\tag_aco.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#5a8ea2;fill-opacity:1;stroke:#ffffff;stroke-width:0.637329;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-3-4-0-6-8-6-7-4-7-7-5-6-3-5-2-3-5"
+         width="114.99343"
+         height="44.245892"
+         x="80.647766"
+         y="864.56372"
+         ry="22.122946" />
+      <rect
+         style="fill:#5a8ea2;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-4-1-5-7-1-9-5-4-3-3-1-4-8-4-0-0-4-4"
+         width="159.2459"
+         height="44.245892"
+         x="36.395317"
+         y="864.56372"
+         ry="22.122946" />
+      <rect
+         style="fill:#5a8ea2;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2-2-0-9-7-1-7-3"
+         width="44.252464"
+         height="44.252464"
+         x="36.395317"
+         y="864.56042"
+         ry="22.126232" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="126.23758"
+         y="891.27832"
+         id="text8993-6-7-9-0-0-6-0-2-5-5-1-7-9-1-6-3-2-7-4-5-3"><tspan
+           sodipodi:role="line"
+           id="tspan8991-2-6-2-6-0-8-4-2-2-5-1-1-7-3-7-6-4-0-2-1-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+           x="126.23758"
+           y="891.27832">AÇO</tspan></text>
+      <path
+         class="st1"
+         d="m 45.423699,886.7017 c -0.0035,-0.006 -0.0035,-0.0134 0,-0.0194 l 6.588388,-11.25641 c 0.0035,-0.006 0.0098,-0.009 0.01635,-0.009 h 13.058318 c 0.0069,0 0.01308,0.003 0.01669,0.01 l 6.516025,11.2564 c 0.0034,0.006 0.0034,0.0134 0,0.0192 l -6.516025,11.24398 c -0.0034,0.006 -0.0097,0.01 -0.01669,0.01 H 52.028449 c -0.0069,0 -0.01308,-0.003 -0.01635,-0.009 z m 19.167726,-0.0161 c 0,3.35122 -2.716648,6.06787 -6.067874,6.06787 -3.351216,0 -6.067862,-2.71665 -6.067862,-6.06787 0,-3.35122 2.716646,-6.06787 6.067862,-6.06787 3.351226,0 6.067874,2.71665 6.067874,6.06787 z"
+         id="path6-1"
+         style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.157304" />
+    </g>
+    <g
+       id="g144939"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_terrestre.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#e87236;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-74"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="-137.89334"
+         ry="22.126232" />
+      <path
+         class="st1"
+         d="m -498.36947,-107.16703 c -0.007,0 -0.0122,-0.007 -0.01,-0.0139 l 6.75968,-17.25414 c 0.001,-0.004 0.005,-0.007 0.01,-0.007 h 8.5582 c 0.004,0 0.008,0.003 0.01,0.007 l 6.6592,17.25414 c 0.003,0.007 -0.003,0.0138 -0.01,0.0138 z m -8.00199,0.0748 c -0.007,0 -0.0122,-0.007 -0.01,-0.0141 l 5.20133,-13.43838 c 0.001,-0.004 0.005,-0.007 0.01,-0.007 h 4.37364 c 0.007,0 0.0122,0.007 0.01,0.0139 l -5.03505,13.43838 c -0.002,0.004 -0.005,0.007 -0.01,0.007 z"
+         id="path6-2"
+         style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.167784" />
+    </g>
+    <g
+       id="g144943"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_eletrico.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#fbd100;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-6"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="-88.333443"
+         ry="22.126232" />
+      <polygon
+         class="st1"
+         points="95.401,54.619 111.138,101.734 66.225,101.734 154.632,206.581 137.343,138.406 180.975,138.406 153.849,54.619 "
+         id="polygon6-3"
+         style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd"
+         transform="matrix(0.17241979,0,0,0.17241979,-512.69291,-88.725235)" />
+    </g>
+    <g
+       id="g145295"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_fantasma.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#4c6ab2;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-0"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="-38.773563"
+         ry="22.126232" />
+      <path
+         class="st1"
+         d="m -480.20255,-5.10872 c -0.14734,-0.081 -0.29335,-0.16434 -0.43952,-0.24768 -0.0591,-0.0337 -0.119,-0.0662 -0.17784,-0.10017 -0.40302,-0.23368 -0.73937,-0.54602 -1.03105,-0.90488 -0.40402,-0.49685 -0.47303,-1.03772 -0.18435,-1.61709 0.0836,-0.16768 0.21852,-0.294 0.33802,-0.43335 3.11683,-3.63386 4.07972,-7.76841 2.67215,-12.34698 -1.77094,-5.76097 -7.51074,-9.62501 -13.88691,-8.90214 -2.74047,0.31069 -5.18544,1.36907 -7.2037,3.2545 -3.61187,3.37418 -4.92876,7.51457 -3.93438,12.37182 1.22656,4.65859 4.06289,7.47773 8.51678,9.30699 1.23107,0.42236 2.69198,0.76487 3.97471,0.97238 0.97939,0.15835 1.84843,0.20002 2.83582,0.20702 0.49286,0.004 1.01454,-0.001 1.59509,-0.005 1.05822,0.0109 1.4724,-0.0326 2.20344,-0.099 1.59591,-0.14534 3.11283,-0.60453 4.5784,-1.24206 0.0482,-0.021 0.0958,-0.043 0.14385,-0.064 0.11651,-0.0508 0.0961,-0.0971 -5.1e-4,-0.15033 z m -12.92367,-13.07235 c -0.22585,1.43824 -1.42107,2.4643 -2.87598,2.4603 -1.22691,-0.003 -2.3013,-0.76155 -2.71348,-1.91477 -0.40969,-1.14656 -0.0562,-2.4328 0.88188,-3.20484 0.0709,-0.0583 0.1435,-0.11566 0.22101,-0.16418 0.16584,-0.10383 0.19668,-0.0927 0.21934,0.10068 0.0464,0.39502 0.14585,0.77288 0.33185,1.12573 0.68337,1.29606 2.22545,1.87426 3.60652,1.3234 0.41703,-0.16634 0.38102,-0.0591 0.32886,0.27368 z m 3.47868,0.12984 c -0.0177,-0.0899 -0.0321,-0.18117 -0.0375,-0.27251 -0.0138,-0.23385 0.0155,-0.26052 0.23352,-0.16735 0.63987,0.27352 1.2949,0.31968 1.96226,0.13501 1.1139,-0.30819 1.93394,-1.28123 2.06779,-2.4308 0.011,-0.0946 -0.0443,-0.23634 0.088,-0.271 0.10483,-0.0275 0.18801,0.0762 0.27084,0.1375 0.97772,0.7242 1.39075,2.03377 1.01106,3.19934 -0.39469,1.21106 -1.49142,2.00343 -2.76882,2.00027 -1.3854,-0.004 -2.56047,-0.97156 -2.82714,-2.33046 z"
+         id="path6-8-2"
+         style="fill:#fefefe;stroke-width:0.166675" />
+    </g>
+    <g
+       id="g145539"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_venenoso.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#b567ce;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-2"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="10.786335"
+         ry="22.126232" />
+      <path
+         class="st1"
+         d="m -491.24478,19.81214 c 3.25952,0.0517 6.38978,0.96068 9.11529,3.06994 1.78112,1.37854 3.13042,3.09686 3.84038,5.25132 1.07399,3.25952 0.536,6.29158 -1.41709,9.0872 -0.64217,0.91913 -1.42074,1.71698 -2.30499,2.40451 -0.25903,0.20137 -0.31651,0.38729 -0.23112,0.70879 0.32566,1.2237 0.24026,2.42944 -0.27065,3.59431 -0.2788,0.63569 -0.67507,1.18398 -1.24994,1.58906 -0.93808,0.6611 -2.06856,0.66144 -3.00315,-0.003 -0.65896,-0.46871 -1.07184,-1.11968 -1.36492,-1.85888 -0.0497,-0.12527 -0.053,-0.34908 -0.17496,-0.34825 -0.1703,0.001 -0.14438,0.23278 -0.19638,0.3632 -0.26418,0.66227 -0.65164,1.22785 -1.23499,1.64837 -1.09527,0.78955 -2.53811,0.70763 -3.54115,-0.19755 -0.46472,-0.41936 -0.79951,-0.92413 -1.01251,-1.51146 -0.033,-0.0914 -0.0623,-0.18476 -0.10384,-0.27232 -0.0309,-0.0653 -0.0886,-0.0713 -0.12079,-0.003 -0.053,0.11298 -0.0945,0.23128 -0.13858,0.34825 -0.21948,0.58169 -0.54064,1.09692 -0.98941,1.53073 -1.10706,1.06984 -2.6353,1.06702 -3.7382,-0.0136 -0.80383,-0.78772 -1.18631,-1.77415 -1.29331,-2.87173 -0.0693,-0.70979 -0.0475,-1.42307 0.17629,-2.10943 0.0793,-0.24341 0.0111,-0.37916 -0.18011,-0.52686 -1.16919,-0.90369 -2.14333,-1.98549 -2.90097,-3.25636 -1.01002,-1.69389 -1.51196,-3.52901 -1.43021,-5.50037 0.0994,-2.39771 0.99042,-4.49451 2.54391,-6.30985 1.82333,-2.13071 4.14427,-3.47136 6.8206,-4.22967 1.38768,-0.39377 2.80826,-0.56425 4.4008,-0.58335 z m -0.15186,17.73544 c 1.06635,0.004 2.11143,-0.14007 3.13059,-0.45425 1.46577,-0.45176 2.7614,-1.18232 3.78787,-2.3442 1.74192,-1.97152 1.80106,-4.55514 0.15037,-6.60393 -0.53035,-0.65829 -1.17418,-1.18714 -1.89876,-1.6178 -1.31723,-0.7829 -2.74728,-1.19495 -4.27136,-1.31873 -1.93332,-0.15717 -3.77742,0.15502 -5.51301,1.02614 -1.27138,0.63818 -2.33473,1.5211 -3.01877,2.7948 -0.78505,1.46161 -0.82676,2.95363 -0.10484,4.4523 0.58219,1.20857 1.5196,2.08484 2.66221,2.75176 1.56662,0.91449 3.27232,1.3066 5.0757,1.31391 z"
+         id="path6-7-8"
+         style="fill:#fefefe;stroke-width:0.166149" />
+    </g>
+    <g
+       id="g145789"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_psiquico.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#ff6675;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-4"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="60.346226"
+         ry="22.126232" />
+      <path
+         class="st1"
+         d="m -480.19097,92.40939 c -0.12934,0.19142 -0.33072,0.29958 -0.51182,0.42696 -1.87666,1.31965 -3.96129,2.12109 -6.21794,2.50322 -1.21488,0.20583 -2.43705,0.27237 -3.66348,0.21205 -2.83199,-0.13894 -5.48553,-0.86121 -7.84751,-2.48738 -2.65141,-1.82543 -4.30819,-4.32438 -5.02939,-7.45417 -0.29834,-1.2944 -0.39565,-2.60748 -0.3099,-3.92838 0.1489,-2.29775 0.73205,-4.47719 1.98055,-6.43124 1.61515,-2.52777 3.87981,-4.23507 6.73296,-5.16157 1.63294,-0.53015 3.30769,-0.78241 5.02282,-0.70235 2.62633,0.12257 5.01267,0.93308 7.09054,2.57171 1.63204,1.28729 2.73271,2.95384 3.38204,4.91323 0.95781,2.89069 0.77938,5.70648 -0.6198,8.43333 -0.46112,0.89874 -1.13286,1.61496 -1.86599,2.28297 -1.34421,1.22467 -2.88891,2.08552 -4.68961,2.40094 -2.64358,0.46307 -5.03473,-0.0993 -7.05691,-1.9247 -1.28301,-1.15794 -2.00849,-2.6201 -2.23602,-4.3338 -0.14481,-1.08982 -0.0804,-2.16717 0.28589,-3.20006 0.75589,-2.13141 2.30201,-3.3961 4.48644,-3.86024 1.35737,-0.28838 2.6813,-0.13325 3.88444,0.6214 1.27909,0.80215 1.98269,1.99799 2.18336,3.46371 0.24692,1.80408 -1.07665,3.58147 -2.88909,3.98138 -0.53583,0.11813 -1.06935,0.1288 -1.60572,-1.7e-4 -1.0336,-0.24853 -1.87257,-1.14675 -2.03624,-2.18888 -0.0626,-0.39903 0.004,-0.78987 0.10069,-1.17342 0.0617,-0.24426 0.23252,-0.33962 0.43924,-0.28998 0.198,0.0477 0.31879,0.22042 0.28286,0.4524 -0.0286,0.18431 -0.0464,0.36665 -0.024,0.55042 0.12364,1.00958 0.98858,1.61622 2.03214,1.42764 0.026,-0.005 0.0512,-0.0124 0.077,-0.0178 1.81724,-0.38089 1.99514,-2.2579 1.36004,-3.32921 -0.45133,-0.76123 -1.14478,-1.18624 -1.9971,-1.35916 -1.72864,-0.35063 -3.16518,0.73135 -3.70279,1.99497 -0.67496,1.58633 -0.40401,3.054 0.71142,4.34661 1.52655,1.76886 4.13562,2.19493 6.20068,1.03111 1.75676,-0.99001 2.8238,-2.4881 3.08389,-4.48698 0.2592,-1.99176 -0.25653,-3.76293 -1.61729,-5.30301 -1.22341,-1.38459 -2.74196,-2.17215 -4.52345,-2.45661 -4.40941,-0.70412 -8.11185,1.56231 -9.69961,5.44586 -0.65573,1.60394 -0.85498,3.27869 -0.66783,5.00253 0.2857,2.63184 1.36128,4.8837 3.26516,6.72051 1.67528,1.6164 3.67167,2.64056 5.96568,3.05507 3.45197,0.62389 6.70806,0.007 9.80298,-1.589 0.13805,-0.0712 0.26329,-0.18217 0.43567,-0.16509 z"
+         id="path6-3-0"
+         style="fill:#fefefe;stroke-width:0.177899" />
+    </g>
+    <g
+       id="g146536"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_sombrio.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#5b5466;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-9"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="109.90611"
+         ry="22.126232" />
+      <path
+         class="st1"
+         d="m -494.78128,142.57805 c 0.59945,0.0799 1.21381,0.12159 1.83918,0.12159 6.65837,0 12.05585,-4.70659 12.05585,-10.512 0,-5.80576 -5.39765,-10.512 -12.05585,-10.512 -0.44672,0 -0.88801,0.0213 -1.32169,0.0625 3.30277,2.18175 5.48673,5.96138 5.48673,10.25833 -3.4e-4,4.51761 -2.41375,8.46301 -6.00422,10.5816 z m 3.39946,2.5548 c 7.23531,0 13.1005,-5.86519 13.1005,-13.1005 0,-7.23531 -5.86519,-13.1005 -13.1005,-13.1005 -7.23531,0 -13.1005,5.86519 -13.1005,13.1005 0,7.23531 5.86519,13.1005 13.1005,13.1005 z"
+         id="path6-80-4"
+         style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.169338" />
+    </g>
+    <g
+       id="g146542"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_lutador.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#e0306a;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-8"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="159.46596"
+         ry="22.126232" />
+      <g
+         id="g10-4"
+         transform="matrix(0.16520038,0,0,0.16520038,-511.79255,160.34754)">
+        <path
+           class="st1"
+           d="m 139.536,184.222 c -19.152,0 -38.304,-0.046 -57.456,0.038 -3.814,0.017 -5.556,-1.013 -5.55,-5.472 0.046,-33.436 -0.026,-66.872 -0.061,-100.309 0,-0.479 -0.014,-0.959 0.012,-1.436 0.134,-2.483 1.426,-3.808 3.906,-3.895 1.833,-0.064 3.67,-0.019 5.506,-0.02 3.032,-0.001 6.071,0.127 9.096,-0.029 4.797,-0.248 5.731,1.749 5.68,5.556 -0.121,9.016 -0.039,18.034 -0.039,27.052 0,1.915 -0.027,3.831 0.012,5.745 0.066,3.224 1.174,4.325 4.326,4.368 0.638,0.009 1.278,0.024 1.915,-0.011 2.269,-0.124 3.499,-1.318 3.558,-3.633 0.071,-2.791 0.024,-5.586 0.025,-8.379 0.001,-8.219 0,-16.439 0.001,-24.658 0,-0.638 -0.013,-1.277 0.009,-1.915 0.099,-2.74 1.398,-4.031 4.199,-4.085 2.313,-0.045 4.628,-0.012 6.942,-0.012 2.873,0 5.746,-0.023 8.618,0.009 3.082,0.034 4.344,1.271 4.352,4.385 0.028,10.853 0.011,21.706 0.018,32.558 0.001,0.877 -0.035,1.765 0.09,2.628 0.27,1.876 1.474,2.962 3.387,3.087 1.033,0.067 2.077,0.069 3.11,0.002 2.019,-0.129 3.209,-1.277 3.435,-3.297 0.088,-0.79 0.061,-1.594 0.062,-2.391 0.003,-10.374 0.002,-20.748 0.003,-31.122 0,-0.638 -0.011,-1.277 0.006,-1.915 0.08,-2.999 1.392,-4.338 4.447,-4.364 5.027,-0.043 10.055,-0.047 15.082,0.002 3.028,0.03 4.345,1.38 4.352,4.437 0.025,10.933 0.009,21.865 0.014,32.798 0,0.877 -0.038,1.764 0.075,2.629 0.266,2.034 1.454,3.119 3.502,3.228 1.034,0.055 2.078,0.062 3.111,-0.008 1.896,-0.129 3.083,-1.236 3.338,-3.131 0.116,-0.864 0.083,-1.752 0.083,-2.629 0.005,-10.214 0.003,-20.429 0.004,-30.643 0,-0.718 -0.014,-1.437 0.01,-2.154 0.094,-2.82 1.305,-4.071 4.14,-4.093 5.266,-0.041 10.534,-0.044 15.8,0.002 2.78,0.024 4.063,1.349 4.184,4.119 0.021,0.478 0.008,0.957 0.008,1.436 -0.031,33.197 -0.063,66.394 -0.097,99.591 -0.001,0.798 0.033,1.602 -0.051,2.392 -0.227,2.139 -1.423,3.316 -3.552,3.506 -0.792,0.071 -1.595,0.031 -2.393,0.031 -19.075,0.002 -38.147,0.002 -57.219,0.002 z"
+           id="path6-84-0" />
+        <path
+           class="st1"
+           d="m 68.526,145.065 c 0,11.082 0.001,22.164 -0.003,33.246 0,0.876 0.023,1.76 -0.075,2.628 -0.23,2.031 -1.329,3.134 -3.367,3.435 -0.549,0.081 -1.116,0.036 -1.669,0.097 -2.966,0.325 -4.786,-0.8 -6.159,-3.633 -3.755,-7.743 -7.837,-15.329 -11.835,-22.954 -0.722,-1.378 -1.142,-2.756 -1.134,-4.324 0.028,-5.66 0.014,-11.321 -0.033,-16.982 -0.013,-1.559 0.335,-2.97 1.054,-4.352 4.191,-8.063 8.38,-16.127 12.487,-24.232 0.871,-1.719 2.053,-2.54 3.95,-2.443 1.113,0.057 2.239,-0.044 3.344,0.068 2.095,0.212 3.298,1.468 3.504,3.571 0.07,0.711 0.037,1.434 0.037,2.151 0.002,11.242 0.001,22.483 0.001,33.725 -0.034,-0.001 -0.068,-0.001 -0.102,-0.001 z"
+           id="path8-1" />
+      </g>
+    </g>
+    <g
+       id="g146549"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_inseto.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#83c300;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-1"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="209.02586"
+         ry="22.126232" />
+      <g
+         id="g12-55"
+         transform="matrix(0.16736054,0,0,0.16736054,-512.73703,210.46633)">
+        <path
+           class="st1"
+           d="m 132.648,141.782 c -0.413,-10.695 2.545,-21.791 6.292,-32.75 0.397,-1.161 1.129,-1.621 2.191,-1.826 2.351,-0.455 4.634,-1.156 6.89,-1.947 9.716,-3.409 17.863,-9.167 24.866,-16.634 0.35,-0.374 0.691,-0.756 1.039,-1.132 1.533,-1.658 1.554,-1.679 3.125,-0.117 8.585,8.54 14.684,18.59 18.053,30.226 9.477,32.739 -5.663,67.258 -36.138,82.515 -0.838,0.42 -1.699,0.797 -2.56,1.171 -1.95,0.846 -1.93,0.821 -3.391,-0.859 -11.1,-12.757 -17.323,-27.633 -19.428,-44.344 -0.556,-4.413 -0.933,-8.824 -0.939,-14.303 z"
+           id="path6-4-5" />
+        <path
+           class="st1"
+           d="m 122.704,141.267 c -0.379,14.433 -2.405,27.001 -7.548,38.937 -3.239,7.517 -7.867,14.151 -13.105,20.384 -1.32,1.571 -1.373,1.571 -3.22,0.723 -16.003,-7.345 -27.766,-18.99 -35.185,-34.951 -4.916,-10.577 -6.969,-21.765 -6.199,-33.381 1.17,-17.657 8.077,-32.797 20.528,-45.391 0.12,-0.121 0.241,-0.242 0.366,-0.359 1.441,-1.358 1.479,-1.391 2.78,0.063 3.888,4.348 8.202,8.205 13.056,11.448 5.88,3.928 12.253,6.762 19.157,8.268 1.843,0.402 2.732,1.236 3.291,2.981 2.321,7.238 4.608,14.482 5.401,22.083 0.372,3.561 0.532,7.144 0.678,9.195 z"
+           id="path8-5-6" />
+        <path
+           class="st1"
+           d="m 127.668,95.452 c -14.599,0.01 -26.36,-5.701 -35.975,-16.144 -1.369,-1.486 -1.354,-1.566 0.368,-2.597 3.67,-2.195 7.535,-3.984 11.552,-5.445 0.801,-0.291 1.621,-0.534 2.413,-0.848 1.246,-0.494 1.285,-0.649 0.517,-1.84 -0.277,-0.429 -0.605,-0.825 -0.91,-1.236 -3.252,-4.385 -6.507,-8.767 -9.751,-13.158 -0.506,-0.685 -1.046,-1.365 -1.418,-2.123 -1.052,-2.141 -0.391,-4.587 1.512,-5.899 1.863,-1.284 4.146,-1.094 5.835,0.568 0.664,0.653 1.216,1.426 1.775,2.178 4.225,5.681 8.485,11.337 12.624,17.08 0.988,1.371 2.006,1.805 3.647,1.576 5.176,-0.724 10.379,-0.736 15.554,0.005 1.669,0.239 2.658,-0.274 3.632,-1.62 4.251,-5.873 8.609,-11.668 12.936,-17.486 0.457,-0.614 0.907,-1.251 1.457,-1.777 1.754,-1.677 4.198,-1.793 6.059,-0.345 1.776,1.382 2.301,3.666 1.255,5.742 -0.342,0.679 -0.815,1.298 -1.27,1.914 -3.245,4.39 -6.501,8.772 -9.753,13.157 -0.305,0.411 -0.621,0.815 -0.91,1.237 -1.014,1.483 -1.006,1.519 0.577,2.108 0.719,0.268 1.454,0.491 2.176,0.751 4.021,1.452 7.879,3.256 11.558,5.434 1.8,1.065 1.815,1.117 0.488,2.559 -9.746,10.589 -21.665,16.332 -35.948,16.209 z"
+           id="path10-8" />
+      </g>
+    </g>
+    <g
+       id="g149287"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_dragao.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#006fc9;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-2"
+         width="44.252464"
+         height="44.252464"
+         x="-50.541794"
+         y="413.6062"
+         ry="22.126232" />
+      <g
+         id="g10-0-0"
+         transform="matrix(0.14393107,0,0,0.14393107,-46.781389,418.37428)">
+        <path
+           class="st1"
+           d="m 126.685,179.553 c 14.923,0.159 26.121,-6.269 32.82,-19.643 8.319,-16.609 1.766,-36.906 -14.503,-46.024 -0.381,-0.213 -0.751,-0.467 -1.159,-0.608 -1.476,-0.509 -1.939,-1.439 -1.704,-3.017 0.257,-1.718 0.252,-3.485 0.244,-5.229 -0.023,-4.759 -1.941,-8.807 -4.825,-12.469 -0.154,-0.195 -0.365,-0.346 -0.549,-0.517 -0.188,0.262 -0.028,0.496 0.086,0.711 2.378,4.497 2.613,9.355 2.469,14.292 -0.061,2.066 -0.694,3.935 -1.6,5.754 -1.207,2.426 -2.975,3.778 -5.803,4.266 -16.193,2.79 -32.127,6.764 -48.056,10.763 -11.096,2.786 -22.247,5.358 -33.373,8.024 -0.425,0.102 -0.849,0.223 -1.281,0.271 -0.228,0.025 -0.615,-0.024 -0.674,-0.156 -0.085,-0.187 0.017,-0.505 0.126,-0.724 0.192,-0.39 0.445,-0.751 0.68,-1.119 8.678,-13.554 16.458,-27.623 23.95,-41.855 0.923,-1.754 2.134,-3.086 3.756,-4.233 12.85,-9.081 25.546,-18.365 37.481,-28.65 9.836,-8.476 18.711,-17.85 26.683,-28.09 0.376,-0.483 0.749,-0.967 1.139,-1.438 0.103,-0.124 0.275,-0.295 0.395,-0.28 0.361,0.045 0.275,0.349 0.232,0.585 -0.125,0.687 -0.267,1.371 -0.398,2.057 -1.993,10.4 -5.924,20.076 -10.896,29.375 -1.864,3.486 -1.803,3.485 2.189,3.589 32.048,0.834 59.999,22.141 69.198,52.89 9.836,32.881 -3.971,67.726 -33.37,85.147 -4.45,2.637 -9.129,4.759 -14.01,6.469 -1.43,0.501 -2.641,0.385 -4.007,-0.22 -5.994,-2.657 -11.121,-6.574 -15.954,-10.897 -5.43,-4.856 -10.229,-10.28 -14.16,-16.44 -0.329,-0.515 -0.646,-1.038 -0.956,-1.565 -0.4,-0.68 -0.488,-1.092 0.594,-1.041 1.739,0.083 3.489,0.022 5.236,0.022 z M 102.002,94.17 c -0.146,-1.387 -0.283,-2.775 -0.443,-4.16 -0.04,-0.344 -0.147,-0.681 -0.23,-1.019 -0.161,-0.654 -0.544,-0.849 -1.14,-0.511 -0.378,0.215 -0.746,0.452 -1.102,0.702 -8.231,5.761 -15.007,12.984 -21.01,20.973 -0.921,1.225 -0.731,1.55 0.92,1.591 6.903,0.169 13.057,-1.863 18.308,-6.406 3.394,-2.937 4.871,-6.709 4.697,-11.17 z"
+           id="path6-5-1" />
+        <path
+           class="st1"
+           d="m 123.195,211.207 c -6.948,-0.777 -13.843,-1.838 -20.563,-3.838 -10.778,-3.207 -19.883,-9.221 -28.17,-16.66 -11.739,-10.538 -19.128,-23.671 -23.343,-38.728 -0.468,-1.67 -0.451,-1.71 1.336,-1.881 11.228,-1.078 22.339,-2.822 33.26,-5.698 6.426,-1.693 12.706,-3.812 18.875,-6.272 0.811,-0.323 1.627,-0.634 2.45,-0.926 0.143,-0.051 0.358,-0.026 0.491,0.05 0.301,0.172 0.18,0.44 0.051,0.659 -0.309,0.527 -0.646,1.038 -0.96,1.561 -0.99,1.646 -2.004,3.279 -2.958,4.946 -4.851,8.47 -6.05,17.516 -4.459,27.08 2.197,13.214 8.391,24.119 18.523,32.824 2.583,2.22 5.202,4.399 7.789,6.614 0.208,0.178 0.681,0.237 0.499,0.665 -0.026,0.061 -0.486,-0.063 -0.746,-0.1 -0.692,-0.1 -1.384,-0.197 -2.075,-0.296 z"
+           id="path8-4-0" />
+      </g>
+    </g>
+    <g
+       id="g147293"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_voador.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#89aae3;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-1"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="308.14569"
+         ry="22.126232" />
+      <path
+         class="st1"
+         d="m -480.51524,329.734 c 0.01,0.16183 -0.0892,0.28347 -0.15599,0.41626 -1.12783,2.24345 -4.017,4.20008 -6.79356,4.19423 -0.58746,-0.001 -1.17422,-0.003 -1.7608,-0.0373 -0.0558,-0.003 -0.15244,0.0132 -0.16271,0.0434 -0.0312,0.0923 0.059,0.12642 0.12624,0.14678 0.64855,0.19635 1.30506,0.35942 1.9761,0.46087 0.97751,0.14784 1.95131,0.1296 2.91962,-0.0689 0.9977,-0.2045 1.84933,-0.70061 2.63668,-1.32773 0.1181,-0.094 0.20415,-0.25443 0.39041,-0.24558 -0.0673,0.13315 -0.13084,0.26824 -0.20237,0.39891 -0.97592,1.78151 -2.54055,2.66926 -4.49771,2.96051 -0.53753,0.08 -1.07932,0.0949 -1.62163,0.10039 -0.1204,10e-4 -0.24097,0.002 -0.36101,0.0104 -0.0397,0.003 -0.10287,0.01 -0.0876,0.0728 0.009,0.0367 0.0434,0.08 0.0776,0.0952 0.0958,0.0427 0.19653,0.0754 0.29709,0.10623 0.21583,0.0659 0.43396,0.12412 0.6489,0.19228 0.23,0.0729 0.24151,0.0878 0.13758,0.31853 -0.37961,0.84259 -0.8704,1.61649 -1.47398,2.31639 -1.55241,1.80028 -3.49788,2.93715 -5.83906,3.33693 -5.47929,0.93573 -10.44902,-2.67581 -11.43627,-7.88456 -0.99858,-5.26842 2.27036,-10.267 7.48389,-11.50798 0.7647,-0.18201 1.54197,-0.25708 2.32826,-0.25496 1.53577,0.004 3.0726,0.0338 4.60748,-0.006 2.73371,-0.071 5.42723,-0.43998 8.05029,-1.24292 0.77886,-0.23849 1.52992,-0.54674 2.24079,-0.94901 1.18856,-0.67245 2.1381,-1.60606 2.93785,-2.69936 0.33747,-0.46141 0.64962,-0.94158 0.97487,-1.41219 0.0317,-0.0458 0.0607,-0.11756 0.13403,-0.0901 0.0687,0.0257 0.0526,0.099 0.0507,0.15475 -0.0351,0.97929 -0.12606,1.95467 -0.31764,2.91501 -0.37393,1.87536 -1.03966,3.65298 -2.01434,5.29303 -1.49646,2.51771 -3.68024,4.17759 -6.51045,4.96247 -0.7284,0.20202 -1.48371,0.26416 -2.23389,0.29975 -1.11243,0.0529 -2.22805,0.0678 -3.33127,-0.1443 -0.0588,-0.0113 -0.11933,-0.0154 -0.17918,-0.0193 -0.042,-0.003 -0.0908,-3.5e-4 -0.0958,0.0526 -0.002,0.0223 0.0246,0.0561 0.0473,0.0698 0.051,0.0306 0.10694,0.0535 0.162,0.0767 1.74505,0.73478 3.54905,1.1466 5.45521,0.98177 1.20556,-0.10428 2.38191,-0.34278 3.5062,-0.80401 0.64802,-0.26593 1.23372,-0.62605 1.71441,-1.14411 0.0496,-0.0533 0.11686,-0.0901 0.17582,-0.13474 z"
+         id="path6-9-6"
+         style="fill:#fefefe;stroke-width:0.177054" />
+    </g>
+    <g
+       id="g147297"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_planta.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#38bf4b;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2-8"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="357.70557"
+         ry="22.126232" />
+      <path
+         class="st1"
+         d="m -489.0383,385.91832 c -1.06504,0 -2.12991,0 -3.19495,0 -0.0994,0 -0.19888,1.8e-4 -0.29816,-10e-4 -0.12438,-0.002 -0.20242,-0.0354 -0.11376,-0.17613 0.0453,-0.072 0.0898,-0.14461 0.13483,-0.21692 0.88554,-1.42185 1.77479,-2.84167 2.65342,-4.26791 0.1441,-0.23377 0.30068,-0.35968 0.59564,-0.39018 1.75034,-0.18102 3.49782,-0.38917 5.24615,-0.5894 0.0983,-0.0113 0.19887,-0.0232 0.29191,-0.054 0.21439,-0.0708 0.3344,-0.22231 0.33018,-0.3949 -0.005,-0.17057 -0.12893,-0.32967 -0.33608,-0.39473 -0.13449,-0.0423 -0.27658,-0.0652 -0.41697,-0.0823 -1.22584,-0.149 -2.45218,-0.29462 -3.67834,-0.44126 -0.62649,-0.075 -0.49587,-0.10669 -0.2567,-0.48894 1.17476,-1.87744 2.35138,-3.75385 3.52631,-5.63111 0.0828,-0.13231 0.16197,-0.26698 0.23731,-0.4035 0.0624,-0.11309 0.10164,-0.2358 0.0952,-0.36676 -0.0159,-0.32428 -0.2781,-0.47816 -0.56631,-0.33001 -0.17984,0.0924 -0.31299,0.24237 -0.44968,0.38715 -1.52955,1.62174 -3.05927,3.24316 -4.5895,4.86439 -0.43366,0.45946 -0.37973,0.44749 -0.60525,-0.12219 -0.44378,-1.12167 -0.88469,-2.24453 -1.32881,-3.36602 -0.0521,-0.13164 -0.1045,-0.26546 -0.1768,-0.38631 -0.12439,-0.20832 -0.32597,-0.30743 -0.49047,-0.26192 -0.16888,0.0467 -0.29007,0.23663 -0.29057,0.47344 -1.7e-4,0.0988 0.0167,0.19804 0.0308,0.2963 0.24456,1.69945 0.48676,3.39923 0.73806,5.09766 0.0467,0.31535 -0.012,0.55368 -0.24979,0.79841 -1.14779,1.18117 -2.2725,2.38458 -3.40529,3.58024 -0.0587,0.0619 -0.11495,0.12607 -0.17647,0.18489 -0.1591,0.15204 -0.18,0.1517 -0.23714,-0.0617 -0.30827,-1.15133 -0.61266,-2.30368 -0.91453,-3.45669 -0.27304,-1.04314 -0.54103,-2.08761 -0.81138,-3.13142 -0.0501,-0.19332 -0.10281,-0.38428 -0.26411,-0.52249 -0.24388,-0.20916 -0.5294,-0.14158 -0.6521,0.15759 -0.0618,0.15069 -0.044,0.30659 -0.029,0.4625 0.10517,1.08779 0.21034,2.17541 0.31434,3.26337 0.12674,1.32797 0.25265,2.65611 0.37788,3.98425 0.0386,0.40974 0.0651,0.82065 0.1141,1.22903 0.0222,0.18541 -0.0182,0.32193 -0.14933,0.45878 -0.81525,0.85099 -1.62158,1.71058 -2.43397,2.56409 -0.2095,0.22012 -0.21995,0.21978 -0.41967,-0.01 -1.1778,-1.35359 -1.99036,-2.90336 -2.39217,-4.64916 -0.78155,-3.39586 -0.26226,-6.57075 1.71731,-9.46822 0.88688,-1.2983 2.04951,-2.29828 3.39232,-3.11573 2.37918,-1.44848 4.95557,-2.37481 7.65078,-3.01511 2.05997,-0.48946 4.13729,-0.87492 6.24697,-1.06183 1.14544,-0.10147 2.29526,-0.14546 3.44609,-0.12726 0.31467,0.005 0.31973,0.007 0.4013,0.31434 0.30541,1.15302 0.55975,2.3175 0.747,3.49563 0.44496,2.79837 0.59918,5.61611 0.52249,8.44599 -0.047,1.73366 -0.19163,3.45822 -0.66913,5.13727 -0.43484,1.52887 -1.09925,2.95831 -2.00838,4.2546 -1.47663,2.10513 -3.51654,3.44877 -5.98135,4.11605 -2.77055,0.75002 -5.48211,0.52535 -8.10266,-0.66947 -0.0903,-0.0412 -0.17916,-0.0855 -0.26697,-0.1318 -0.0777,-0.041 -0.0856,-0.10837 -0.0485,-0.17917 0.0394,-0.0752 0.0868,-0.14629 0.13163,-0.2186 0.56193,-0.90408 1.13027,-1.80428 1.68175,-2.71476 0.13787,-0.22771 0.30169,-0.33001 0.56867,-0.37029 1.99221,-0.30019 3.98172,-0.6189 5.97207,-0.9324 0.74295,-0.11697 1.48573,-0.23394 2.22801,-0.35479 0.13939,-0.0227 0.28147,-0.0497 0.41226,-0.10062 0.209,-0.0816 0.33676,-0.2754 0.32142,-0.45609 -0.018,-0.21118 -0.15877,-0.32192 -0.33794,-0.39844 -0.1623,-0.0693 -0.33372,-0.0583 -0.50378,-0.0583 -1.09335,-1.7e-4 -2.18671,-1.7e-4 -3.28007,-1.7e-4 -1.6e-4,6.4e-4 -1.6e-4,0.003 -1.6e-4,0.004 z"
+         id="path6-6-1"
+         style="fill:#fefefe;stroke-width:0.168545" />
+    </g>
+    <g
+       id="g147547"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_normal.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#919aa2;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2-2-1"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="407.26544"
+         ry="22.126232" />
+      <path
+         class="st1"
+         d="m -478.28132,429.39167 c 0,7.23975 -5.86075,13.1005 -13.1005,13.1005 -7.23975,0 -13.1005,-5.86075 -13.1005,-13.1005 0,-7.23975 5.86075,-13.1005 13.1005,-13.1005 7.23975,0 13.1005,5.86075 13.1005,13.1005 z m -4.83926,-0.0586 c 0,4.56846 -3.70554,8.274 -8.274,8.274 -4.56845,0 -8.24866,-3.73088 -8.24866,-8.274 0,-4.54311 3.70555,-8.274 8.274,-8.274 4.56846,0 8.24866,3.70555 8.24866,8.274 z"
+         id="path6-0-2"
+         style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.172375" />
+    </g>
+    <g
+       id="g147797"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_pedra.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#c8b686;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2-2-0-2"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="456.82538"
+         ry="22.126232" />
+      <path
+         class="st1"
+         d="m -484.25207,478.4 c -10e-4,-0.002 -0.002,-0.005 -0.002,-0.007 l 1.66805,-9.72683 c 7.6e-4,-0.005 0.005,-0.008 0.009,-0.008 h 0.52791 c 0.004,0 0.008,0.003 0.009,0.006 l 3.75815,11.89906 c 0.001,0.003 -1.6e-4,0.008 -0.003,0.0102 l -2.77099,2.1634 c -0.004,0.003 -0.0101,0.002 -0.0132,-0.002 z m -20.23018,6.44823 c 0,0.004 0.003,0.008 0.006,0.009 l 5.71201,1.86768 c 0.003,7.9e-4 0.006,4.7e-4 0.008,-7.8e-4 l 12.76751,-8.81438 c 0.002,-0.002 0.004,-0.003 0.004,-0.006 l 1.36923,-9.18683 c 9.4e-4,-0.005 -0.004,-0.0107 -0.009,-0.0107 h -11.30885 c -0.003,0 -0.005,7.9e-4 -0.007,0.003 l -8.53987,10.30184 c -0.001,0.002 -0.002,0.003 -0.002,0.006 z m 8.09862,2.35235 6.24023,2.04407 c 0.003,7.8e-4 0.006,4.7e-4 0.008,-7.9e-4 l 7.42934,-5.32917 c 0.004,-0.003 0.005,-0.009 0.002,-0.0127 l -2.78509,-4.1444 c -0.003,-0.004 -0.009,-0.005 -0.013,-0.002 z"
+         id="path6-07-2"
+         style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.154994" />
+    </g>
+    <g
+       id="g148047"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_fada.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#fb89eb;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2-2-0-9-0"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="506.38525"
+         ry="22.126232" />
+      <path
+         class="st1"
+         d="m -499.22534,536.18713 4.20263,-1.21857 3.62983,6.637 c 0.005,0.009 0.0171,0.009 0.0218,0 l 3.62983,-6.637 4.20264,1.21857 c 0.009,0.003 0.0181,-0.006 0.0154,-0.0155 l -1.21872,-4.11943 6.45392,-3.52981 c 0.009,-0.004 0.009,-0.0171 0,-0.0218 l -6.50715,-3.55891 1.27195,-4.2993 c 0.003,-0.009 -0.006,-0.0181 -0.0154,-0.0155 l -4.3012,1.24723 -3.53127,-6.45669 c -0.004,-0.009 -0.0171,-0.009 -0.0218,0 l -3.53127,6.45669 -4.30119,-1.24723 c -0.009,-0.003 -0.0181,0.006 -0.0154,0.0155 l 1.27195,4.2993 -6.50714,3.55891 c -0.009,0.004 -0.009,0.0171 0,0.0218 l 6.45391,3.52981 -1.21872,4.11943 c -0.003,0.01 0.006,0.0183 0.0154,0.0155 z m 3.26117,-7.63022 2.97734,1.62832 1.62832,2.97734 c 0.004,0.009 0.0171,0.009 0.0218,0 l 1.62831,-2.97734 2.97733,-1.62832 c 0.009,-0.004 0.009,-0.0171 0,-0.0218 l -2.97733,-1.62832 -1.62831,-2.97734 c -0.004,-0.009 -0.0171,-0.009 -0.0218,0 l -1.62832,2.97734 -2.97734,1.62832 c -0.008,0.004 -0.008,0.017 0,0.0218 z"
+         id="path6-54-5"
+         style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.146234" />
+    </g>
+    <g
+       id="g148297"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_fogo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#ff9741;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2-2-0-9-7-4"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="556.92407"
+         ry="22.126232" />
+      <path
+         class="st1"
+         d="m -483.31677,588.14446 c -0.004,0.13051 -0.0919,0.21932 -0.15899,0.31827 -1.08148,1.59441 -2.54157,2.66562 -4.40404,3.1759 -1.26014,0.34528 -2.54084,0.58588 -3.85104,0.49164 -3.30906,-0.23812 -6.05043,-1.5514 -7.95165,-4.35604 -0.93072,-1.37289 -1.38889,-2.92003 -1.51074,-4.56861 -0.16573,-2.24034 0.30887,-4.37043 1.11951,-6.4415 0.0831,-0.21213 0.17029,-0.42279 0.26101,-0.63169 0.0238,-0.0548 0.0341,-0.14944 0.12361,-0.12434 0.0524,0.0147 0.0402,0.0892 0.0405,0.14019 10e-4,0.13404 -0.002,0.26821 -0.001,0.40224 0.006,1.60205 0.14754,3.18633 0.62847,4.7251 0.16016,0.51234 0.35026,1.01352 0.58045,1.49884 0.0269,0.0568 0.0527,0.13785 0.13447,0.11157 0.0229,-0.007 0.0325,-0.0979 0.0263,-0.14768 -0.081,-0.66633 -0.10937,-1.33633 -0.12435,-2.00619 -0.0584,-2.60749 0.60542,-4.9635 2.44792,-6.89409 0.50867,-0.53289 1.04024,-1.04361 1.64227,-1.47683 0.47916,-0.34483 0.92999,-0.72505 1.33663,-1.15635 0.77055,-0.81724 1.15151,-1.79303 1.20245,-2.90711 0.0314,-0.68791 -0.0583,-1.36422 -0.1882,-2.03702 -0.0153,-0.0788 -0.0311,-0.15766 -0.0417,-0.23723 -0.003,-0.0242 0.008,-0.0713 0.017,-0.0724 0.035,-0.004 0.0733,10e-4 0.10673,0.0126 0.0235,0.008 0.0417,0.0327 0.0614,0.0509 1.00617,0.93748 1.91605,1.95217 2.55038,3.18706 0.56504,1.10013 0.80492,2.26662 0.71096,3.50107 -0.03,0.39372 -0.0261,0.39842 -0.41765,0.51571 -1.15988,0.34748 -1.97507,1.48417 -1.92104,2.7584 0.0502,1.1844 0.84895,2.22654 1.99679,2.53791 1.44732,0.39269 2.92341,-0.49369 3.31669,-1.98799 0.16544,-0.62816 0.10511,-1.24913 -0.0432,-1.86878 -0.0843,-0.35247 -0.19877,-0.69555 -0.32458,-1.03525 -0.026,-0.07 -0.10173,-0.16221 -0.0214,-0.21741 0.0668,-0.0459 0.14695,0.0354 0.21403,0.0753 1.56476,0.9294 2.80743,2.16914 3.50269,3.86734 1.21405,2.96509 0.89813,5.78911 -1.01235,8.36768 -1.2437,1.67854 -2.96847,2.50165 -5.0739,2.47434 -0.25381,-0.003 -0.50734,-0.0412 -0.76072,-0.0662 -0.065,-0.006 -0.14812,-0.003 -0.17557,-0.0735 -0.0301,-0.0782 0.0503,-0.1104 0.0988,-0.15032 0.0828,-0.0683 0.1722,-0.12875 0.25103,-0.20112 1.12348,-1.03128 1.54979,-2.3086 1.21214,-3.78602 -0.33162,-1.45098 -1.24898,-2.41121 -2.69777,-2.80552 -1.88331,-0.51263 -3.86822,0.65944 -4.413,2.59619 -0.39019,1.38698 -0.0699,2.6389 0.84029,3.72361 1.11335,1.32694 2.56507,2.03232 4.28778,2.19234 1.66811,0.15502 3.25342,-0.19348 4.79557,-0.78744 0.53685,-0.2067 1.05535,-0.46111 1.58223,-0.69379 z"
+         id="path6-76-7"
+         style="fill:#fefefe;stroke-width:0.146801" />
+    </g>
+    <g
+       id="g148561"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_gelo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#4cd1c0;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2-2-0-9-7-1-1"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="606.3717"
+         ry="22.126232" />
+      <g
+         id="g20-1"
+         transform="matrix(0.17357863,0,0,0.17357863,-513.53045,606.34931)">
+        <polygon
+           class="st1"
+           points="123.443,127.624 80.008,148.709 36.572,127.629 80.008,106.491 "
+           id="polygon6-2-2" />
+        <g
+           id="g12-5-9">
+          <polygon
+             class="st1"
+             points="131.757,127.624 175.192,148.709 218.628,127.629 175.192,106.491 "
+             id="polygon8-6" />
+          <polygon
+             class="st1"
+             points="175.192,52.127 131.757,74.989 131.757,119.755 132.087,119.591 132.704,119.284 175.18,98.148 175.179,98.147 175.192,98.141 "
+             id="polygon10-6" />
+        </g>
+        <polygon
+           class="st1"
+           points="175.192,203.073 131.757,180.211 131.757,135.445 132.087,135.609 132.704,135.916 175.18,157.052 175.179,157.053 175.192,157.059 "
+           id="polygon14-0" />
+        <polygon
+           class="st1"
+           points="80.008,52.127 123.443,74.989 123.443,119.755 123.113,119.591 122.496,119.284 80.02,98.148 80.021,98.147 80.008,98.141 "
+           id="polygon16-9" />
+        <polygon
+           class="st1"
+           points="80.008,203.073 123.443,180.211 123.443,135.445 123.113,135.609 122.496,135.916 80.02,157.052 80.021,157.053 80.008,157.059 "
+           id="polygon18-2" />
+      </g>
+    </g>
+    <g
+       id="g148805"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_agua.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#3692dc;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2-2-0-9-7-1-7-0"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="656.4903"
+         ry="22.126232" />
+      <path
+         class="st1"
+         d="m -491.30172,691.71698 c -4.40232,-0.0506 -7.79644,-3.02427 -8.64109,-6.89727 -0.3819,-1.75119 -0.2158,-3.46264 0.42375,-5.1411 0.97913,-2.5695 2.26983,-4.97742 3.73009,-7.29829 1.27699,-2.02949 2.57672,-4.04467 3.86531,-6.06693 0.14834,-0.23281 0.29034,-0.46983 0.43385,-0.70581 0.0745,-0.12258 0.14637,-0.12137 0.22016,-5.7e-4 0.0196,0.0321 0.0396,0.0642 0.059,0.0962 1.3794,2.27675 2.88212,4.47535 4.28155,6.73931 1.26901,2.05283 2.44722,4.15309 3.3506,6.39731 0.35645,0.88531 0.7165,1.76852 0.85414,2.72325 0.37978,2.63214 -0.25314,4.99172 -1.96202,7.02784 -1.58781,1.89169 -3.64696,2.90335 -6.11,3.09113 -0.20013,0.0152 -0.40041,0.0277 -0.50537,0.0349 z m -0.56245,-2.763 c 0.90142,0.005 1.75331,-0.18854 2.52869,-0.64106 1.51688,-0.88531 2.38818,-2.18384 2.46107,-3.96892 0.006,-0.13237 0.0577,-0.35825 -0.0458,-0.38069 -0.16625,-0.036 -0.17755,0.19517 -0.24606,0.31338 -0.87372,1.50905 -2.17948,2.34843 -3.91772,2.41725 -2.70368,0.10692 -4.83767,-2.10207 -4.77744,-4.68301 0.002,-0.10045 0.008,-0.20088 0.006,-0.30103 -5.7e-4,-0.0333 -0.0109,-0.0816 -0.0337,-0.0961 -0.0569,-0.036 -0.0888,0.0184 -0.11821,0.056 -0.0385,0.0494 -0.075,0.10089 -0.10722,0.15465 -0.91423,1.52758 -0.99976,3.09641 -0.11143,4.64612 0.95548,1.66717 2.46905,2.42885 4.3624,2.48336 z"
+         id="path6-51-7"
+         style="fill:#fefefe;stroke-width:0.150589" />
+    </g>
+    <g
+       id="g149055"
+       transform="translate(462.96626,155.02038)"
+       inkscape:export-filename="C:\Users\cristiano_silva\OneDrive\Documentos\GitHub\DesafioPokemon\images\png_tipos\icons\icon_aco.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="fill:#5a8ea2;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17812-3-5-7-6-9-7-9-5-1-8-2-4-7-7-2-2-0-9-7-1-7-3-0"
+         width="44.252464"
+         height="44.252464"
+         x="-513.50806"
+         y="706.56525"
+         ry="22.126232" />
+      <path
+         class="st1"
+         d="m -504.47967,728.70651 c -0.003,-0.006 -0.003,-0.0134 0,-0.0194 l 6.58839,-11.25641 c 0.003,-0.006 0.01,-0.009 0.0163,-0.009 h 13.05832 c 0.007,0 0.0131,0.003 0.0167,0.01 l 6.51602,11.2564 c 0.003,0.006 0.003,0.0134 0,0.0192 l -6.51602,11.24398 c -0.003,0.006 -0.01,0.01 -0.0167,0.01 h -13.05831 c -0.007,0 -0.0131,-0.003 -0.0164,-0.009 z m 19.16773,-0.0161 c 0,3.35122 -2.71665,6.06787 -6.06788,6.06787 -3.35122,0 -6.06786,-2.71665 -6.06786,-6.06787 0,-3.35122 2.71664,-6.06787 6.06786,-6.06787 3.35123,0 6.06788,2.71665 6.06788,6.06787 z"
+         id="path6-1-2"
+         style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.157304" />
+    </g>
+  </g>
+  <style
+     type="text/css"
+     id="style1989">
+	.st0{fill:#83C300;}
+	.st1{fill:#FEFEFE;}
+</style>
+  <style
+     type="text/css"
+     id="style37065">
+	.st0{fill:#E87236;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+  <style
+     type="text/css"
+     id="style53022">
+	.st0{fill:#FBD100;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+  <style
+     type="text/css"
+     id="style62234">
+	.st0{fill:#4C6AB2;}
+	.st1{fill:#FEFEFE;}
+</style>
+  <style
+     type="text/css"
+     id="style66958">
+	.st0{fill:#B567CE;}
+	.st1{fill:#FEFEFE;}
+</style>
+  <style
+     type="text/css"
+     id="style77045">
+	.st0{fill:#FF6675;}
+	.st1{fill:#FEFEFE;}
+</style>
+</svg>
