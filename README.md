@@ -11,3 +11,4 @@ fontes:
 * https://nintendo.fandom.com/wiki/Pok%C3%A9mon_evolution
 * https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon_by_evolution
 * https://www.kaggle.com/datasets/joshuabetetta/complete-pokedex-v100
+* https://www.einerd.com.br/gigantamax-pokemon/
