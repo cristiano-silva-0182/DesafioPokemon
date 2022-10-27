@@ -1,0 +1,7 @@
+﻿stat,stat_sigla,stat_nome,stat_desc
+hp,HP,Pontos de Vida,Define quanto dano um pokémon pode suportar antes de desmaiar.
+attack,ATK,Ataque,Determina quanto dano um pokémon causa quando usa um ataque físico.
+defense,DEF,Defesa,"Determina em parte quanto dano seu pokémon receberá de um ataque físico (quanto mais defesa, menos dano físico será recebido)."
+sp_attack,SP ATK,Ataque Especial,Determina quanto dano um pokémon causa quando usa um ataque especial.
+sp_defense,SP DEF,Defesa Especial,"Determina em parte quanto dano seu pokémon receberá de um ataque especial (quanto mais defesa especial, menos dano especial será recebido)"
+speed,SPD,Velocidade,Determina a ordem que os pokémon atacam durante uma batalha
